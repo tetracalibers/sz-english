@@ -1,0 +1,22 @@
+---
+interface Props {
+  subtitle?: string
+}
+
+const { subtitle } = Astro.props
+
+const title = ["Saezuru English", subtitle].filter(Boolean).join(" | ")
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
