@@ -11,8 +11,10 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@astrojs/svelte": "^2.1.1",
     "@notionhq/client": "^2.2.5",
-    "astro": "^2.4.1"
+    "astro": "^2.3.3",
+    "svelte": "^3.54.0"
   },
   "devDependencies": {
     "prettier": "^2.8.8"
