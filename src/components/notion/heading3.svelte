@@ -1,0 +1,34 @@
+<script lang="ts">
+  import { RichTextItem } from "@/types/notion"
+  import { Heading3BlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import RichText from "./rich-text.svelte"
+
+  type Content = {
+    rich_text: RichTextItem[]
+    color: Heading3BlockObjectResponse["heading_3"]["color"]
+  }
+
+  export let content: Content
+</script>
+
+<h3>
+  {#each content.rich_text as item}
+    <RichText richtext={item} />
+  {/each}
+</h3>
+
+<style>
+  h3 {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+
+    margin: 0;
+    padding: 0.8em 0;
+  }
+
+  h3::before {
+    content: "###";
+    font-size: 1.2em;
+  }
+</style>
