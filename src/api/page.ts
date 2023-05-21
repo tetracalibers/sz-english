@@ -1,5 +1,10 @@
 import { Client, LogLevel } from "@notionhq/client"
-import { ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
+import {
+  BlockObjectResponse,
+  ChildPageBlockObjectResponse,
+  ListBlockChildrenResponse,
+  PartialBlockObjectResponse
+} from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
 
 const notion = new Client({
@@ -14,12 +19,19 @@ const getPage = async () => {
   return res
 }
 
+const isChildPageBlock = (
+  block: PartialBlockObjectResponse | BlockObjectResponse
+): block is ChildPageBlockObjectResponse => {
+  if (!("type" in block)) return false
+  if (block.type !== "child_page") return false
+  return true
+}
+
 const collectChildPageList = (res: ListBlockChildrenResponse) => {
   const { results } = res
   return results
     .map((block) => {
-      if (!("type" in block)) return null
-      if (block.type !== "child_page") return null
+      if (!isChildPageBlock(block)) return null
       const { id, last_edited_time, child_page } = block
       return { id, last_edited_time, title: child_page.title }
     })
