@@ -6,3 +6,4 @@ singleQuote: false
 trailingComma: none
 bracketSpacing: true
 arrowParens: always
+bracketSameLine: false
