@@ -1,4 +1,5 @@
 import pagesJson from "~/meta/pages.json" assert { type: "json" }
+import lastUpdatedMap from "~/meta/last-updated.json" assert { type: "json" }
 import { Client, LogLevel } from "@notionhq/client"
 import { BlockObjectResponse, ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
@@ -93,12 +94,26 @@ const getNode = (page: PageTree, path: string[] = []): PageNode[] => {
   return [{ title, ...info, path }]
 }
 
+const isNeedUpdate = (node: PageNode) => {
+  const syncedAt = lastUpdatedMap[node.id]
+  if (!syncedAt) return true
+
+  const notionUpdatedAt = node.last_edited_time
+
+  const syncedDate = new Date(syncedAt)
+  const notionUpdatedDate = new Date(notionUpdatedAt)
+
+  return notionUpdatedDate > syncedDate
+}
+
 export const fetchNotionPageContent = async () => {
   for (const page of pages) {
     const nodeList = getNode(page)
 
     await Promise.all(
       nodeList.map(async (node, i) => {
+        if (!isNeedUpdate(node)) return
+
         const path = node.path.join("/").replaceAll(" ", "")
 
         try {
