@@ -1,4 +1,3 @@
-import { Client, LogLevel } from "@notionhq/client"
 import {
   BlockObjectResponse,
   ChildPageBlockObjectResponse,
@@ -7,6 +6,7 @@ import {
 } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
 import { printFileUpdatedLog } from "./log.js"
+import { notion } from "./client.js"
 
 export type BlockObject = PartialBlockObjectResponse | BlockObjectResponse
 
@@ -16,11 +16,6 @@ export type PageTree = {
   title: string
   children: PageTree[]
 }
-
-const notion = new Client({
-  auth: process.env.NOTION_TOKEN,
-  logLevel: LogLevel.INFO
-})
 
 const rootId = "fb9b855e968c4a2a9437e46b5ad573f0"
 

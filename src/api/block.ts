@@ -1,10 +1,10 @@
 import pagesJson from "../../meta/pages.json" assert { type: "json" }
 import lastUpdatedMap from "../../meta/last-updated.json" assert { type: "json" }
-import { Client, LogLevel } from "@notionhq/client"
 import { BlockObjectResponse, ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
 import { BlockObject, PageTree } from "./page.js"
 import { printFileUpdatedLog, printSkipLog } from "./log.js"
+import { notion } from "./client.js"
 
 type BlockType = BlockObjectResponse["type"]
 
@@ -20,11 +20,6 @@ type PageNode = PageMeta & {
 }
 
 const pages: PageTree[] = pagesJson
-
-const notion = new Client({
-  auth: process.env.NOTION_TOKEN,
-  logLevel: LogLevel.INFO
-})
 
 const hasChildren = (block: BlockObject) => {
   if (!("has_children" in block)) return false
