@@ -1,4 +1,4 @@
-import pagesJson from "~/data/pages.json" assert { type: "json" }
+import pagesJson from "~/meta/pages.json" assert { type: "json" }
 import { Client, LogLevel } from "@notionhq/client"
 import { BlockObjectResponse, ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"

@@ -51,5 +51,5 @@ const collectChildPageList = async (res: ListBlockChildrenResponse) => {
 export const fetchNotionPage = async () => {
   const root = await getPage(rootId)
   const childPages = await collectChildPageList(root)
-  await fs.writeFile("data/pages.json", JSON.stringify(childPages, null, 2))
+  await fs.writeFile("meta/pages.json", JSON.stringify(childPages, null, 2))
 }
