@@ -20,18 +20,23 @@ import Table from "@/components/notion/table.svelte"
 import CalloutPhrase from "@/components/notion/callout-phrase.svelte"
 import JaToggle from "@/components/notion/ja-toggle.svelte"
 
+const buildSlug = (path: string) => {
+  const { dir, name } = parse(path)
+  const slug = dir
+    .split("/")
+    .filter((sep) => sep.length > 0 && sep !== "data")
+    .concat(name)
+  return slug
+}
+
 export async function getStaticPaths() {
   const modules = import.meta.glob("/data/**/*.json")
   const entries = Object.entries(modules)
 
   const pages = await Promise.all(
-    entries.map(async ([path, importFn]) => {
+    entries.map(async ([path, importFn], i) => {
       const module = await importFn()
-      const { dir, name } = parse(path)
-      const slug = dir
-        .split("/")
-        .filter((sep) => sep.length > 0 && sep !== "data")
-        .concat(name)
+      const slug = buildSlug(path)
       const props = { slug }
       return {
         params: { slug: slug.join("/") },
