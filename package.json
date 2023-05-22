@@ -9,7 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "format": "prettier --write .",
-    "update-content": "ts-node --esm src/api/index.ts"
+    "update-content": "ts-node --esm scripts/update-content/index.ts"
   },
   "dependencies": {
     "@astrojs/svelte": "^2.1.1",
