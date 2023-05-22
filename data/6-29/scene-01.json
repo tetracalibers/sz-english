@@ -64,58 +64,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "738cc8c7-68d5-4892-8c9a-64940d5c4452",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3b47c3e4-4b24-4052-a2c1-046e091e89ef"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "感情を表に出すことが苦手な子供だった",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "感情を表に出すことが苦手な子供だった",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "感情を表に出すことが苦手な子供だった",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "感情を表に出すことが苦手な子供だった",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -394,58 +369,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "487b910f-2a1a-4493-9461-da213b9aa7e9",
-              "parent": {
-                "type": "block_id",
-                "block_id": "301fec22-76f6-4df1-a50b-430561d0a3db"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "彼に忘れずにメールをしておいて。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "彼に忘れずにメールをしておいて。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼に忘れずにメールをしておいて。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼に忘れずにメールをしておいて。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -539,58 +489,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "76c32bec-19d6-44a1-b376-9164ea386b08",
-              "parent": {
-                "type": "block_id",
-                "block_id": "6733f236-20d1-42a1-addb-7cb22f0b7da9"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私はどこかであなたとお会いしたのを覚えています。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私はどこかであなたとお会いしたのを覚えています。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私はどこかであなたとお会いしたのを覚えています。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私はどこかであなたとお会いしたのを覚えています。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -709,58 +634,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "71d11a29-f5d3-461e-9135-9ceb6b7dba7d",
-              "parent": {
-                "type": "block_id",
-                "block_id": "fdb085ba-0891-4c8c-afd4-ed04b77c164d"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "ドアに鍵をかけるのを忘れないで。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "ドアに鍵をかけるのを忘れないで。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ドアに鍵をかけるのを忘れないで。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ドアに鍵をかけるのを忘れないで。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -854,58 +754,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "0e02111a-7fd9-4013-8181-b99f98cc053c",
-              "parent": {
-                "type": "block_id",
-                "block_id": "969bc04f-a880-474b-af62-8790cc393505"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "昨年ハワイに行ったことを決して忘れないでしょう。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "昨年ハワイに行ったことを決して忘れないでしょう。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "昨年ハワイに行ったことを決して忘れないでしょう。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "昨年ハワイに行ったことを決して忘れないでしょう。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -991,35 +866,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "c82cfe31-53dc-4326-84c2-fc55865e0bdc",
-              "parent": {
-                "type": "block_id",
-                "block_id": "8ca0a579-e732-4bf7-918c-3295e8486f64"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                      "content": "treat",
                       "link": null
                     },
                     "annotations": {
@@ -1030,162 +921,78 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                    "plain_text": "treat",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "02780881-f8f1-4ac7-bc34-c4d0b5a658bc",
-              "parent": {
-                "type": "block_id",
-                "block_id": "2013ecb1-0ec4-40b7-8e66-5cee59acfcca"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "treat",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "treat",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "扱う",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "扱う",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "扱う",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "扱う",
+                    "href": null
+                  }
                 ]
-              }
-            },
-            {
-              "object": "block",
-              "id": "b9c7f86b-1579-4b7d-9870-0ff2c2c19bd9",
-              "parent": {
-                "type": "block_id",
-                "block_id": "2013ecb1-0ec4-40b7-8e66-5cee59acfcca"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "for long",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "for long",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "長い間",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "長い間",
-                      "href": null
-                    }
-                  ]
-                ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          },
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "for long",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "for long",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "長い間",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "長い間",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -1246,35 +1053,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "f71a016c-b351-4786-a6de-a71c3b329d2e",
-              "parent": {
-                "type": "block_id",
-                "block_id": "2b06a143-9c26-4521-a39a-1d9cdd151f70"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "両親ですら俺を甘やかさなかった",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "両親ですら俺を甘やかさなかった",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "両親ですら俺を甘やかさなかった",
+                      "content": "do much for O",
                       "link": null
                     },
                     "annotations": {
@@ -1285,99 +1108,33 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "両親ですら俺を甘やかさなかった",
+                    "plain_text": "do much for O",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "7cc89f4b-5f84-4296-9442-4b1d098fd9f8",
-              "parent": {
-                "type": "block_id",
-                "block_id": "bfae4732-e689-42ef-a551-4f30df6f3071"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "do much for O",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "do much for O",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "Oに尽くす",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "Oに尽くす",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Oに尽くす",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Oに尽くす",
+                    "href": null
+                  }
                 ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -1413,58 +1170,33 @@
           }
         },
         "color": "gray_background",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "3ca1cb6a-e67e-45dd-bcb7-11b357279f96",
-              "parent": {
-                "type": "block_id",
-                "block_id": "e3600b07-9d32-44e4-8ba0-bd0e3902760d"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -1490,35 +1222,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "489fb1bf-f73e-4b5d-a994-47e9594acc11",
-              "parent": {
-                "type": "block_id",
-                "block_id": "710d08eb-61ba-4f9d-9872-39a62583dab8"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                      "content": "sword",
                       "link": null
                     },
                     "annotations": {
@@ -1529,162 +1277,78 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                    "plain_text": "sword",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "7a6cfeef-0d6c-4d06-bf28-3344c473239f",
-              "parent": {
-                "type": "block_id",
-                "block_id": "28834db1-6f4f-49d4-85c5-e1e877f053a0"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "sword",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "sword",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "刀",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "刀",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "刀",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "刀",
+                    "href": null
+                  }
                 ]
-              }
-            },
-            {
-              "object": "block",
-              "id": "cb30c191-ae12-4eac-89b9-8c451fec54be",
-              "parent": {
-                "type": "block_id",
-                "block_id": "28834db1-6f4f-49d4-85c5-e1e877f053a0"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "as though",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "as though",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "まるで～するかのように",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "まるで～するかのように",
-                      "href": null
-                    }
-                  ]
-                ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          },
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "as though",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "as though",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "まるで～するかのように",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "まるで～するかのように",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -1879,58 +1543,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "56956dd8-d67c-49c0-a49e-f52b92ad6252",
-              "parent": {
-                "type": "block_id",
-                "block_id": "9558c0e9-082c-4c3d-a3ab-8f1d99be3c0f"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私はそのニュースにとても驚いた。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私はそのニュースにとても驚いた。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私はそのニュースにとても驚いた。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私はそのニュースにとても驚いた。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2024,58 +1663,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "581b59a0-984c-407b-975c-d1cffb589eb2",
-              "parent": {
-                "type": "block_id",
-                "block_id": "5730bf4e-077d-4b79-8dad-25bb84052b87"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私の会社のその決定に落ち込んだ。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私の会社のその決定に落ち込んだ。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私の会社のその決定に落ち込んだ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私の会社のその決定に落ち込んだ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2169,58 +1783,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "0ac590f4-1242-4916-a0d9-6ddcd9e14ce4",
-              "parent": {
-                "type": "block_id",
-                "block_id": "d99351ee-2a9a-4509-806b-e14cebddb3b8"
-              },
-              "created_time": "2023-05-21T12:08:00.000Z",
-              "last_edited_time": "2023-05-21T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "彼はあなたの仕事にとても満足しています。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "彼はあなたの仕事にとても満足しています。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼はあなたの仕事にとても満足しています。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼はあなたの仕事にとても満足しています。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2281,58 +1870,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "f1d41db4-d83d-4d12-bb10-1a2b756526cc",
-              "parent": {
-                "type": "block_id",
-                "block_id": "f79c900e-837b-4012-b7b6-4b93a41ee2a0"
-              },
-              "created_time": "2023-05-13T11:52:00.000Z",
-              "last_edited_time": "2023-05-13T11:52:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "感情を表に出すことが苦手な子供だった",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "感情を表に出すことが苦手な子供だった",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "感情を表に出すことが苦手な子供だった",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "感情を表に出すことが苦手な子供だった",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2611,58 +2175,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "2310ea2b-c475-42b7-9f9d-f6ffb73eb926",
-              "parent": {
-                "type": "block_id",
-                "block_id": "ae6b0782-8576-4e8c-9504-6495e13452b8"
-              },
-              "created_time": "2023-05-13T11:28:00.000Z",
-              "last_edited_time": "2023-05-13T11:28:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "彼に忘れずにメールをしておいて。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "彼に忘れずにメールをしておいて。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼に忘れずにメールをしておいて。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼に忘れずにメールをしておいて。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2756,58 +2295,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "71c7b174-940b-4c23-964a-082db00eada4",
-              "parent": {
-                "type": "block_id",
-                "block_id": "fe28c391-20fa-41f1-bdd9-fa484612d05b"
-              },
-              "created_time": "2023-05-13T11:28:00.000Z",
-              "last_edited_time": "2023-05-13T11:28:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私はどこかであなたとお会いしたのを覚えています。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私はどこかであなたとお会いしたのを覚えています。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私はどこかであなたとお会いしたのを覚えています。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私はどこかであなたとお会いしたのを覚えています。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -2926,58 +2440,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "d76871dd-b677-44fb-b1f1-c12820dfe0c8",
-              "parent": {
-                "type": "block_id",
-                "block_id": "4e880b1b-540e-4d40-b3be-137ef0e60e03"
-              },
-              "created_time": "2023-05-13T11:29:00.000Z",
-              "last_edited_time": "2023-05-13T11:29:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "ドアに鍵をかけるのを忘れないで。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "ドアに鍵をかけるのを忘れないで。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ドアに鍵をかけるのを忘れないで。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ドアに鍵をかけるのを忘れないで。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -3071,58 +2560,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "133f5a50-9ac2-4fd8-8adc-aa58448a38a3",
-              "parent": {
-                "type": "block_id",
-                "block_id": "55b9e299-6e3e-45d7-bc4c-6f95abf407b2"
-              },
-              "created_time": "2023-05-13T11:30:00.000Z",
-              "last_edited_time": "2023-05-13T11:30:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "昨年ハワイに行ったことを決して忘れないでしょう。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "昨年ハワイに行ったことを決して忘れないでしょう。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "昨年ハワイに行ったことを決して忘れないでしょう。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "昨年ハワイに行ったことを決して忘れないでしょう。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -3208,35 +2672,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "265fdf2d-b7b8-4c93-9d7d-7d33e630b1d3",
-              "parent": {
-                "type": "block_id",
-                "block_id": "46719eef-d9bc-4b9a-a398-fbb453c0e77c"
-              },
-              "created_time": "2023-05-13T11:53:00.000Z",
-              "last_edited_time": "2023-05-13T11:55:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                      "content": "treat",
                       "link": null
                     },
                     "annotations": {
@@ -3247,162 +2727,78 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "同年代より頭ひとつ出た体格もあって 早いうちから子供扱いをされずに育った",
+                    "plain_text": "treat",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "ab863fbb-722b-4bc6-a50c-b011ad8219ca",
-              "parent": {
-                "type": "block_id",
-                "block_id": "327058a5-b333-4cd3-8c65-d0fd24659589"
-              },
-              "created_time": "2023-05-13T11:57:00.000Z",
-              "last_edited_time": "2023-05-13T12:35:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "treat",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "treat",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "扱う",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "扱う",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "扱う",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "扱う",
+                    "href": null
+                  }
                 ]
-              }
-            },
-            {
-              "object": "block",
-              "id": "9bd4f6bb-406a-44c8-a9aa-96047b77cc12",
-              "parent": {
-                "type": "block_id",
-                "block_id": "327058a5-b333-4cd3-8c65-d0fd24659589"
-              },
-              "created_time": "2023-05-13T11:57:00.000Z",
-              "last_edited_time": "2023-05-13T11:58:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "for long",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "for long",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "長い間",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "長い間",
-                      "href": null
-                    }
-                  ]
-                ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          },
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "for long",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "for long",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "長い間",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "長い間",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -3463,35 +2859,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "addde6cd-57bd-4efc-93e6-55be4d128919",
-              "parent": {
-                "type": "block_id",
-                "block_id": "b6955ceb-717f-4ae7-a263-1bc5211715c8"
-              },
-              "created_time": "2023-05-13T12:00:00.000Z",
-              "last_edited_time": "2023-05-13T12:00:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "両親ですら俺を甘やかさなかった",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "両親ですら俺を甘やかさなかった",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "両親ですら俺を甘やかさなかった",
+                      "content": "do much for O",
                       "link": null
                     },
                     "annotations": {
@@ -3502,99 +2914,33 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "両親ですら俺を甘やかさなかった",
+                    "plain_text": "do much for O",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "7456423f-22ab-4288-ae93-f96a882fc64d",
-              "parent": {
-                "type": "block_id",
-                "block_id": "ffea2149-131d-4885-abee-25964e7a6307"
-              },
-              "created_time": "2023-05-13T12:03:00.000Z",
-              "last_edited_time": "2023-05-13T12:04:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "do much for O",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "do much for O",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "Oに尽くす",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "Oに尽くす",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Oに尽くす",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Oに尽くす",
+                    "href": null
+                  }
                 ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -3630,58 +2976,33 @@
           }
         },
         "color": "gray_background",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "fa30ff87-5ee5-4f03-a3de-57f68c03bc3c",
-              "parent": {
-                "type": "block_id",
-                "block_id": "6ddc5378-f2fa-434b-a5e3-29883aca5bd4"
-              },
-              "created_time": "2023-05-13T12:05:00.000Z",
-              "last_edited_time": "2023-05-13T12:24:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "When I gripped the bamboo sword, then, and only then, did I feel as though my heart had been set free.",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -3707,35 +3028,51 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "2bb62404-f8a5-418e-9aa5-5bd3cb1dcea7",
-              "parent": {
-                "type": "block_id",
-                "block_id": "3da2e0db-43aa-42e8-995f-8ffc2848756c"
-              },
-              "created_time": "2023-05-13T12:07:00.000Z",
-              "last_edited_time": "2023-05-13T12:08:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
                   {
                     "type": "text",
                     "text": {
-                      "content": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                      "content": "sword",
                       "link": null
                     },
                     "annotations": {
@@ -3746,162 +3083,78 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "唯一 竹刀を握る時だけは心が解放されたのを憶えてる",
+                    "plain_text": "sword",
                     "href": null
                   }
                 ],
-                "color": "default"
-              }
-            }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
-      }
-    },
-    {
-      "type": "table",
-      "table": {
-        "table_width": 2,
-        "has_column_header": false,
-        "has_row_header": false,
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "60d7b59e-9e8b-4c51-b3c8-de2251acbacb",
-              "parent": {
-                "type": "block_id",
-                "block_id": "0e6cffce-6780-493a-878f-b7db59941676"
-              },
-              "created_time": "2023-05-13T12:07:00.000Z",
-              "last_edited_time": "2023-05-13T12:07:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "sword",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "sword",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "刀",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "刀",
-                      "href": null
-                    }
-                  ]
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "刀",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "刀",
+                    "href": null
+                  }
                 ]
-              }
-            },
-            {
-              "object": "block",
-              "id": "52888a71-cfbe-4f9e-afe0-ec05701571de",
-              "parent": {
-                "type": "block_id",
-                "block_id": "0e6cffce-6780-493a-878f-b7db59941676"
-              },
-              "created_time": "2023-05-13T12:07:00.000Z",
-              "last_edited_time": "2023-05-13T12:25:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "table_row",
-              "table_row": {
-                "cells": [
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "as though",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "as though",
-                      "href": null
-                    }
-                  ],
-                  [
-                    {
-                      "type": "text",
-                      "text": {
-                        "content": "まるで～するかのように",
-                        "link": null
-                      },
-                      "annotations": {
-                        "bold": false,
-                        "italic": false,
-                        "strikethrough": false,
-                        "underline": false,
-                        "code": false,
-                        "color": "default"
-                      },
-                      "plain_text": "まるで～するかのように",
-                      "href": null
-                    }
-                  ]
-                ]
-              }
+              ]
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          },
+          {
+            "type": "table_row",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "as though",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "as though",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "まるで～するかのように",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "まるで～するかのように",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -4096,58 +3349,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "92168ab4-2ad8-4c4f-8b49-dcbacfbfc141",
-              "parent": {
-                "type": "block_id",
-                "block_id": "7e9c3075-5a02-4c8b-8d22-4a7beaa64c8c"
-              },
-              "created_time": "2023-05-13T12:19:00.000Z",
-              "last_edited_time": "2023-05-13T12:19:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私はそのニュースにとても驚いた。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私はそのニュースにとても驚いた。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私はそのニュースにとても驚いた。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私はそのニュースにとても驚いた。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -4241,58 +3469,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "a0a0e6c0-7223-4990-83aa-26eb36d8ed75",
-              "parent": {
-                "type": "block_id",
-                "block_id": "57c8d0bb-58d1-4cb5-98b4-c32d2ae97e72"
-              },
-              "created_time": "2023-05-13T12:19:00.000Z",
-              "last_edited_time": "2023-05-13T12:20:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "私の会社のその決定に落ち込んだ。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "私の会社のその決定に落ち込んだ。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私の会社のその決定に落ち込んだ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私の会社のその決定に落ち込んだ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
@@ -4386,58 +3589,33 @@
           }
         ],
         "color": "default",
-        "children": {
-          "object": "list",
-          "results": [
-            {
-              "object": "block",
-              "id": "cd357273-30fd-4911-b53c-fc1bbf2ac70c",
-              "parent": {
-                "type": "block_id",
-                "block_id": "a8e130ea-0cb1-4a84-8358-b2dbd1ad3e12"
-              },
-              "created_time": "2023-05-13T12:20:00.000Z",
-              "last_edited_time": "2023-05-13T12:20:00.000Z",
-              "created_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "last_edited_by": {
-                "object": "user",
-                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
-              },
-              "has_children": false,
-              "archived": false,
-              "type": "paragraph",
-              "paragraph": {
-                "rich_text": [
-                  {
-                    "type": "text",
-                    "text": {
-                      "content": "彼はあなたの仕事にとても満足しています。",
-                      "link": null
-                    },
-                    "annotations": {
-                      "bold": false,
-                      "italic": false,
-                      "strikethrough": false,
-                      "underline": false,
-                      "code": false,
-                      "color": "default"
-                    },
-                    "plain_text": "彼はあなたの仕事にとても満足しています。",
-                    "href": null
-                  }
-                ],
-                "color": "default"
-              }
+        "children": [
+          {
+            "type": "paragraph",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼はあなたの仕事にとても満足しています。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼はあなたの仕事にとても満足しています。",
+                  "href": null
+                }
+              ],
+              "color": "default"
             }
-          ],
-          "next_cursor": null,
-          "has_more": false,
-          "type": "block",
-          "block": {}
-        }
+          }
+        ]
       }
     },
     {
