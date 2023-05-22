@@ -18,7 +18,7 @@ export type PageTree = {
 }
 
 const notion = new Client({
-  auth: import.meta.env.NOTION_TOKEN,
+  auth: process.env.NOTION_TOKEN,
   logLevel: LogLevel.INFO
 })
 

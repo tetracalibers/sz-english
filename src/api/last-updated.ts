@@ -1,6 +1,7 @@
-import { PageTree } from "./page"
+import { printFileUpdatedLog } from "./log.js"
+import { PageTree } from "./page.js"
 import fs from "node:fs/promises"
-import tree from "~/meta/pages.json" assert { type: "json" }
+import tree from "../../meta/pages.json" assert { type: "json" }
 
 const buildLastUpdatedMap = (tree: PageTree[], dist = new Map<string, string>()) => {
   tree.forEach((page) => {

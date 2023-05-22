@@ -1,9 +1,10 @@
-import pagesJson from "~/meta/pages.json" assert { type: "json" }
-import lastUpdatedMap from "~/meta/last-updated.json" assert { type: "json" }
+import pagesJson from "../../meta/pages.json" assert { type: "json" }
+import lastUpdatedMap from "../../meta/last-updated.json" assert { type: "json" }
 import { Client, LogLevel } from "@notionhq/client"
 import { BlockObjectResponse, ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
-import { BlockObject, PageTree } from "./page"
+import { BlockObject, PageTree } from "./page.js"
+import { printFileUpdatedLog, printSkipLog } from "./log.js"
 
 type BlockType = BlockObjectResponse["type"]
 
@@ -21,7 +22,7 @@ type PageNode = PageMeta & {
 const pages: PageTree[] = pagesJson
 
 const notion = new Client({
-  auth: import.meta.env.NOTION_TOKEN,
+  auth: process.env.NOTION_TOKEN,
   logLevel: LogLevel.INFO
 })
 
