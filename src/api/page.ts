@@ -6,6 +6,7 @@ import {
   PartialBlockObjectResponse
 } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
+import { printFileUpdatedLog } from "./log.js"
 
 export type BlockObject = PartialBlockObjectResponse | BlockObjectResponse
 
@@ -52,4 +53,5 @@ export const updatePagesMap = async () => {
   const root = await getPage(rootId)
   const childPages = await collectChildPageList(root)
   await fs.writeFile("meta/pages.json", JSON.stringify(childPages, null, 2))
+  printFileUpdatedLog("meta/pages.json")
 }

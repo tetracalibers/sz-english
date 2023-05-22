@@ -13,4 +13,5 @@ const buildLastUpdatedMap = (tree: PageTree[], dist = new Map<string, string>())
 export const updateSyncDateMap = async () => {
   const lastUpdatedMap = buildLastUpdatedMap(tree)
   await fs.writeFile("meta/last-updated.json", JSON.stringify(lastUpdatedMap, null, 2))
+  printFileUpdatedLog("meta/last-updated.json")
 }

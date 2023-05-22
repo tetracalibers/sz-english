@@ -112,7 +112,10 @@ export const updatePageContent = async () => {
 
     await Promise.all(
       nodeList.map(async (node, i) => {
-        if (!isNeedUpdate(node)) return
+        if (!isNeedUpdate(node)) {
+          printSkipLog(node.path.concat([node.title]).join("/"))
+          return
+        }
 
         const path = node.path.join("/").replaceAll(" ", "")
 
@@ -125,7 +128,10 @@ export const updatePageContent = async () => {
         const data = { ...node, blocks }
         const sceneName = `scene-${(i + 1).toString().padStart(2, "0")}`
 
-        await fs.writeFile(`data/${path}/${sceneName}.json`, JSON.stringify(data, null, 2))
+        const file = `data/${path}/${sceneName}.json`
+
+        await fs.writeFile(file, JSON.stringify(data, null, 2))
+        printFileUpdatedLog(file)
       })
     )
   }
