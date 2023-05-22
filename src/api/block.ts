@@ -106,7 +106,7 @@ const isNeedUpdate = (node: PageNode) => {
   return notionUpdatedDate > syncedDate
 }
 
-export const fetchNotionPageContent = async () => {
+export const updatePageContent = async () => {
   for (const page of pages) {
     const nodeList = getNode(page)
 

@@ -48,7 +48,7 @@ const collectChildPageList = async (res: ListBlockChildrenResponse) => {
   return tree.filter(Boolean)
 }
 
-export const fetchNotionPage = async () => {
+export const updatePagesMap = async () => {
   const root = await getPage(rootId)
   const childPages = await collectChildPageList(root)
   await fs.writeFile("meta/pages.json", JSON.stringify(childPages, null, 2))
