@@ -1,10 +1,9 @@
 <script lang="ts">
-  import { RichTextItem } from "@/types/notion"
-  import { Heading2BlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { Heading2BlockObjectResponse, RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
 
   type Content = {
-    rich_text: RichTextItem[]
+    rich_text: RichTextItemResponse[]
     color: Heading2BlockObjectResponse["heading_2"]["color"]
   }
 

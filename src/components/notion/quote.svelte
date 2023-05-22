@@ -1,10 +1,9 @@
 <script lang="ts">
-  import { RichTextItem } from "@/types/notion"
-  import { QuoteBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { QuoteBlockObjectResponse, RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
 
   type Content = {
-    rich_text: RichTextItem[]
+    rich_text: RichTextItemResponse[]
     color: QuoteBlockObjectResponse["quote"]["color"]
   }
 

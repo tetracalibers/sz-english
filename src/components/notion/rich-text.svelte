@@ -1,7 +1,7 @@
 <script lang="ts">
-  import type { RichTextItem } from "@/types/notion"
+  import type { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
 
-  export let richtext: RichTextItem
+  export let richtext: RichTextItemResponse
 </script>
 
 <span

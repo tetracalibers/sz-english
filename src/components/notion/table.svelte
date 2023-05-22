@@ -1,14 +1,14 @@
 <script lang="ts">
-  import type { RichTextItem } from "@/types/notion"
   import RichText from "./rich-text.svelte"
   import CellPhrase from "./cell-phrase.svelte"
+  import { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
 
   type Content = {
     table_width: number
     children: {
       type: string
       table_row: {
-        cells: RichTextItem[][]
+        cells: RichTextItemResponse[][]
       }
     }[]
   }

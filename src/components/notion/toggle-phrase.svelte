@@ -1,6 +1,5 @@
 <script lang="ts">
-  import type { RichTextItem } from "@/types/notion"
-  import { ToggleBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { RichTextItemResponse, ToggleBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
   import { Speaker } from "@/lib/speaker"
   import PlayButton from "../audio/play-button.svelte"
@@ -8,12 +7,12 @@
   import TriangleDownIcon from "../icons/triangle-down-icon.svelte"
 
   type Content = {
-    rich_text: RichTextItem[]
+    rich_text: RichTextItemResponse[]
     color: ToggleBlockObjectResponse["toggle"]["color"]
     children: {
       type: string
       paragraph: {
-        rich_text: RichTextItem[]
+        rich_text: RichTextItemResponse[]
         color: string
       }
     }[]

@@ -1,19 +1,18 @@
 <script lang="ts">
-  import { CalloutBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { CalloutBlockObjectResponse, RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
   import { Speaker } from "@/lib/speaker"
   import RichText from "./rich-text.svelte"
-  import type { RichTextItem } from "@/types/notion"
   import StopButton from "../audio/stop-button.svelte"
   import PlayButton from "../audio/play-button.svelte"
   import BirdIcon from "../icons/bird-icon.svelte"
 
   type Content = {
-    rich_text: RichTextItem[]
+    rich_text: RichTextItemResponse[]
     color: CalloutBlockObjectResponse["callout"]["color"]
     children?: {
       type: string
       paragraph: {
-        rich_text: RichTextItem[]
+        rich_text: RichTextItemResponse[]
         color: string
       }
     }[]

@@ -1,10 +1,9 @@
 <script lang="ts">
-  import { RichTextItem } from "@/types/notion"
-  import { ParagraphBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { ParagraphBlockObjectResponse, RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
 
   type Content = {
-    rich_text: RichTextItem[]
+    rich_text: RichTextItemResponse[]
     color: ParagraphBlockObjectResponse["paragraph"]["color"]
   }
 

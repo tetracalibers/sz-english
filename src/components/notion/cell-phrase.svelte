@@ -1,10 +1,10 @@
 <script lang="ts">
   import { Speaker } from "@/lib/speaker"
   import RichText from "./rich-text.svelte"
-  import type { RichTextItem } from "@/types/notion"
   import PlayButton from "../audio/play-button.svelte"
+  import { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
 
-  export let richtexts: RichTextItem[]
+  export let richtexts: RichTextItemResponse[]
 
   const phraseList = richtexts.map((item) => item.plain_text)
   const speaker = new Speaker(phraseList.join(" "))

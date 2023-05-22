@@ -1,11 +1,11 @@
 <script lang="ts">
+  import { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
-  import { RichTextItem } from "@/types/notion"
 
   type Content = {
     type: string
     paragraph?: {
-      rich_text: RichTextItem[]
+      rich_text: RichTextItemResponse[]
       color: string
     }
   }[]
