@@ -7,9 +7,9 @@ import {
 } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
 
-type BlockObject = PartialBlockObjectResponse | BlockObjectResponse
+export type BlockObject = PartialBlockObjectResponse | BlockObjectResponse
 
-type PageTree = {
+export type PageTree = {
   id: string
   last_edited_time: string
   title: string
