@@ -1,6 +1,5 @@
 ---
 import BaseHtml from "@/layout/base-html.astro"
-import { parse } from "node:path"
 import {
   isCallout,
   isHeading2,
@@ -19,29 +18,9 @@ import Heading3 from "@/components/notion/heading3.svelte"
 import Table from "@/components/notion/table.svelte"
 import CalloutPhrase from "@/components/notion/callout-phrase.svelte"
 import JaToggle from "@/components/notion/ja-toggle.svelte"
-
-const toSlug = (path: string) => {
-  const { dir, name } = parse(path)
-  const slug = dir
-    .split("/")
-    .filter((sep) => sep.length > 0 && sep !== "data")
-    .concat(name)
-    .join("/")
-  return slug
-}
-
-const pager = (entries: [string, () => Promise<unknown>][], currIdx: number) => {
-  const prevEntry = entries[currIdx - 1]
-  const nextEntry = entries[currIdx + 1]
-
-  const prevPath = prevEntry ? prevEntry[0] : null
-  const nextPath = nextEntry ? nextEntry[0] : null
-
-  const prev = prevPath ? toSlug(prevPath) : null
-  const next = nextPath ? toSlug(nextPath) : null
-
-  return { prev, next }
-}
+import PrevNextLink from "@/components/ui/prev-next-link.astro"
+import { pager, toSlug } from "@/lib/ui/slug"
+import { Sprite } from "astro-icon"
 
 export async function getStaticPaths() {
   const modules = import.meta.glob("/data/**/*.json")
@@ -78,37 +57,50 @@ const { slug, prev, next, blocks } = Astro.props
 ---
 
 <BaseHtml>
-  <h1>{slug}</h1>
-  <div class="blocks">
-    {
-      blocks.map((block) => {
-        if (isCallout(block)) {
-          return <CalloutPhrase content={block.callout} client:visible />
-        } else if (isJaToggle(block)) {
-          return <JaToggle content={block.toggle.children} />
-        } else if (isParagraph(block)) {
-          return <Paragraph content={block.paragraph} />
-        } else if (isHeading2(block)) {
-          return <Heading2 content={block.heading_2} />
-        } else if (isToggle(block)) {
-          return <TogglePhrase content={block.toggle} client:visible />
-        } else if (isQuote(block)) {
-          return <Quote content={block.quote} />
-        } else if (isHeading3(block)) {
-          return <Heading3 content={block.heading_3} />
-        } else if (isTable(block)) {
-          return <Table content={block.table} client:visible />
-        }
-      })
-    }
-  </div>
+  <Sprite.Provider>
+    <div class="header">
+      <h1>{slug}</h1>
+      <PrevNextLink prev={prev} next={next} />
+    </div>
+    <div class="blocks">
+      {
+        blocks.map((block) => {
+          if (isCallout(block)) {
+            return <CalloutPhrase content={block.callout} client:visible />
+          } else if (isJaToggle(block)) {
+            return <JaToggle content={block.toggle.children} />
+          } else if (isParagraph(block)) {
+            return <Paragraph content={block.paragraph} />
+          } else if (isHeading2(block)) {
+            return <Heading2 content={block.heading_2} />
+          } else if (isToggle(block)) {
+            return <TogglePhrase content={block.toggle} client:visible />
+          } else if (isQuote(block)) {
+            return <Quote content={block.quote} />
+          } else if (isHeading3(block)) {
+            return <Heading3 content={block.heading_3} />
+          } else if (isTable(block)) {
+            return <Table content={block.table} client:visible />
+          }
+        })
+      }
+    </div>
+    <PrevNextLink prev={prev} next={next} />
+  </Sprite.Provider>
 </BaseHtml>
 
 <style>
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
   .blocks {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    margin-bottom: 3rem;
   }
 
   h1 {

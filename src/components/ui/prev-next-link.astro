@@ -1,0 +1,57 @@
+---
+import { Sprite } from "astro-icon"
+
+interface Props {
+  prev: string | null
+  next: string | null
+}
+
+const { prev, next } = Astro.props
+---
+
+<div class="link-group">
+  {
+    prev && (
+      <a href={prev} class="prev">
+        <Sprite name="game-icons/hummingbird" />
+        <Sprite name="ant-design:swap-right-outlined" />
+      </a>
+    )
+  }
+  {
+    next && (
+      <a href={next} class="next">
+        <Sprite name="game-icons/hummingbird" />
+        <Sprite name="ant-design:swap-right-outlined" />
+      </a>
+    )
+  }
+</div>
+
+<style>
+  .link-group {
+    display: flex;
+    justify-content: space-between;
+    padding-block-start: 1rem;
+  }
+
+  .prev {
+    transform: rotateY(180deg);
+  }
+
+  /** prevがないときも右寄せ */
+  .next:first-child {
+    margin-left: auto;
+  }
+
+  :is(.prev, .next) {
+    display: flex;
+    align-items: center;
+    color: currentColor;
+  }
+
+  :is(.prev, .next) > :global(*) {
+    width: 2rem;
+    height: 2rem;
+  }
+</style>
