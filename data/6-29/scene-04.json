@@ -1,0 +1,5958 @@
+{
+  "title": "竜崎と幹部は破門 松原組は解散",
+  "id": "2972a344-ff94-41f2-9877-b105161b773e",
+  "last_edited_time": "2023-05-21T12:18:00.000Z",
+  "path": [
+    "6 - 29"
+  ],
+  "blocks": [
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The Matsubara-Gumi has been dissolved, and both Ryuuzaki and it’ executives have been expelled.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The Matsubara-Gumi has been dissolved, and both Ryuuzaki and it’ executives have been expelled.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "214a118e-2bcc-46fa-bff9-c76240ab6ee9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f655670f-d396-4c27-9625-7903eeef1efb"
+              },
+              "created_time": "2023-05-16T10:55:00.000Z",
+              "last_edited_time": "2023-05-16T10:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "竜崎と幹部は破門 松原組は解散",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "竜崎と幹部は破門 松原組は解散",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "b3f683a2-f868-4f81-98f5-58717a10c744",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ae344d0b-6755-4ea9-9d12-aae7f43e5e29"
+              },
+              "created_time": "2023-05-16T10:55:00.000Z",
+              "last_edited_time": "2023-05-16T10:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "dissolve",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "dissolve",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〔組織・議会などを〕解散する",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〔組織・議会などを〕解散する",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "9356b2cd-dd94-49ab-9722-9b7367c12feb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ae344d0b-6755-4ea9-9d12-aae7f43e5e29"
+              },
+              "created_time": "2023-05-16T10:55:00.000Z",
+              "last_edited_time": "2023-05-16T10:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "executive",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "executive",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〔会社などの組織の〕幹部、重役",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〔会社などの組織の〕幹部、重役",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "acec17dd-0842-45ae-aeae-5e47127ccc6f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ae344d0b-6755-4ea9-9d12-aae7f43e5e29"
+              },
+              "created_time": "2023-05-16T10:55:00.000Z",
+              "last_edited_time": "2023-05-16T10:58:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "expel",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "expel",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "除名する、追い出す、追放する",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "除名する、追い出す、追放する",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "These are the measures we’",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "These are the measures we’",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ve taken",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ve taken",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " thus far.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " thus far.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "d0f06473-b4e3-48cd-8971-a91706b2a061",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d8f04b82-3c0c-4adf-b8e2-ae032331eb20"
+              },
+              "created_time": "2023-05-16T10:59:00.000Z",
+              "last_edited_time": "2023-05-16T10:59:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "処分は以上です",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "処分は以上です",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "1ad39ddf-b28a-47f3-886a-03484ea97bdd",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d6dd7606-a881-49b0-8ecf-cbbd841bdfb8"
+              },
+              "created_time": "2023-05-16T11:01:00.000Z",
+              "last_edited_time": "2023-05-16T11:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "thus",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "thus",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "= therefore",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "= therefore",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "6fff5be2-ec47-4660-a119-a1f36b3744fa",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d6dd7606-a881-49b0-8ecf-cbbd841bdfb8"
+              },
+              "created_time": "2023-05-16T11:01:00.000Z",
+              "last_edited_time": "2023-05-16T11:02:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "thus far",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "thus far",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "今［これ］までのところ、今［これ］までに［の・は］",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "今［これ］までのところ、今［これ］までに［の・は］",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "3bc23308-7232-4c53-818f-17b16d80213f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d6dd7606-a881-49b0-8ecf-cbbd841bdfb8"
+              },
+              "created_time": "2023-05-16T11:01:00.000Z",
+              "last_edited_time": "2023-05-16T11:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "measures",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "measures",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "方策",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "方策",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ryuuzaki may be unconscious, but he’s still alive.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ryuuzaki may be unconscious, but he’s still alive.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "e8194303-a52d-4465-89cf-2b93c2e7dfe0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "46a7b049-9f76-4fb7-a063-29806e9c909b"
+              },
+              "created_time": "2023-05-16T11:07:00.000Z",
+              "last_edited_time": "2023-05-16T11:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "竜崎は意識戻らんとはいえ まだ生きてるようですし",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "竜崎は意識戻らんとはいえ まだ生きてるようですし",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "a2a31a18-12b2-473a-b1ed-d5c65335f1c3",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5ab116a7-7622-4dcc-886c-1614acff68a2"
+              },
+              "created_time": "2023-05-16T11:08:00.000Z",
+              "last_edited_time": "2023-05-16T11:14:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "unconscious",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "unconscious",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "意識を失った、意識不明の",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "意識を失った、意識不明の",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "譲歩を表す may",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "譲歩を表す may",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "may は、「たとえ〜だろうが」などという譲歩表現にも使われる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "may は、「たとえ〜だろうが」などという譲歩表現にも使われる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Whatever they ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Whatever they ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "may",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "may",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " say, I think you are beautiful.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " say, I think you are beautiful.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "17211104-b6a9-48dd-bdc4-1a20678036f0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fe3e1c49-3f94-4484-8ce4-f509db03ea52"
+              },
+              "created_time": "2023-05-16T11:15:00.000Z",
+              "last_edited_time": "2023-05-16T11:15:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "たとえ彼らが何と言おうが、私はあなたを綺麗だと思う。",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "たとえ彼らが何と言おうが、私はあなたを綺麗だと思う。",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We should take this opportunity to circulate the news, while we still have the chance.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We should take this opportunity to circulate the news, while we still have the chance.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "4e8c9818-c86e-462f-9b71-b4dc8a2da919",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e5b48b3a-2406-427c-a36a-9a0a70e78cbb"
+              },
+              "created_time": "2023-05-16T11:17:00.000Z",
+              "last_edited_time": "2023-05-16T11:17:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "今の内に回状まわした方がいいでしょうな",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "今の内に回状まわした方がいいでしょうな",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "c8e04b97-e670-4891-b4cb-a69af7cb20bb",
+              "parent": {
+                "type": "block_id",
+                "block_id": "73947552-43ba-4081-a9f5-fce8f04e30bf"
+              },
+              "created_time": "2023-05-16T11:26:00.000Z",
+              "last_edited_time": "2023-05-16T11:28:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "opportunity",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "opportunity",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "有利な条件［状況］、良い機会、好機、チャンス",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "有利な条件［状況］、良い機会、好機、チャンス",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "1ae81769-766f-4ae0-bc0d-c78eb983d95b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "73947552-43ba-4081-a9f5-fce8f04e30bf"
+              },
+              "created_time": "2023-05-16T11:26:00.000Z",
+              "last_edited_time": "2023-05-16T11:33:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "circulate",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "circulate",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〔～を〕人から人へと移動させる［渡らせる・伝える］、〔うわさ・デマなどを〕流す、広める",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〔～を〕人から人へと移動させる［渡らせる・伝える］、〔うわさ・デマなどを〕流す、広める",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "3f4fff92-fbae-435f-a6a1-a11044c7e970",
+              "parent": {
+                "type": "block_id",
+                "block_id": "73947552-43ba-4081-a9f5-fce8f04e30bf"
+              },
+              "created_time": "2023-05-16T11:26:00.000Z",
+              "last_edited_time": "2023-05-16T11:33:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "while",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "while",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "～する間に",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "～する間に",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "32b71b64-f196-49b9-b3e6-5a6f5deeba05",
+              "parent": {
+                "type": "block_id",
+                "block_id": "73947552-43ba-4081-a9f5-fce8f04e30bf"
+              },
+              "created_time": "2023-05-21T07:36:00.000Z",
+              "last_edited_time": "2023-05-21T07:36:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "still have the chance",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "still have the chance",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "まだチャンスはある",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "まだチャンスはある",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "cabb2b89-ea72-4d94-bc58-d7c3b3294e87",
+              "parent": {
+                "type": "block_id",
+                "block_id": "73947552-43ba-4081-a9f5-fce8f04e30bf"
+              },
+              "created_time": "2023-05-21T07:36:00.000Z",
+              "last_edited_time": "2023-05-21T07:37:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "take this opportunity",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "take this opportunity",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "この機会を利用する",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "この機会を利用する",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "直訳：「ニュースを広めるためにこの機会を利用すべきだ、まだ我々にチャンスがあるうちに」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "直訳：「ニュースを広めるためにこの機会を利用すべきだ、まだ我々にチャンスがあるうちに」",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Does anyone have any leads on who ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Does anyone have any leads on who ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "could",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "could",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " have taken Ryuuzaki out ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " have taken Ryuuzaki out ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "a618218d-0af0-4578-aa55-59969d0adc1f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "829bb96d-4e6e-4947-89d9-5f1fe63acb17"
+              },
+              "created_time": "2023-05-16T11:35:00.000Z",
+              "last_edited_time": "2023-05-16T11:35:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "竜崎刺したのどこのチンピラか見当ついてんのか？",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "竜崎刺したのどこのチンピラか見当ついてんのか？",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "ca732039-aebb-4329-9568-5f32513cb820",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8e5b5ee3-9b11-472d-903e-e1b4576bf85c"
+              },
+              "created_time": "2023-05-16T11:36:00.000Z",
+              "last_edited_time": "2023-05-16T11:38:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "have a lead on",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "have a lead on",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "～の手掛かり［きっかけ］をつかんでいる",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "～の手掛かり［きっかけ］をつかんでいる",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "7856e278-256e-4b63-bd89-d81e58883b2d",
+              "parent": {
+                "type": "block_id",
+                "block_id": "8e5b5ee3-9b11-472d-903e-e1b4576bf85c"
+              },
+              "created_time": "2023-05-16T11:36:00.000Z",
+              "last_edited_time": "2023-05-16T11:40:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "out",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "out",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〈俗〉〔～を〕殺す",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〈俗〉〔～を〕殺す",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "直訳：「誰か手がかりを掴んでいないのか？誰が竜崎を殺すことができたのか」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "直訳：「誰か手がかりを掴んでいないのか？誰が竜崎を殺すことができたのか」",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Weren’t they fighting over who gets a cut of the profits ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Weren’t they fighting over who gets a cut of the profits ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "988858b1-28c4-439f-b617-3d719ea0f107",
+              "parent": {
+                "type": "block_id",
+                "block_id": "a3da0b6a-9fec-48ce-851d-79bf4e00181a"
+              },
+              "created_time": "2023-05-16T11:44:00.000Z",
+              "last_edited_time": "2023-05-16T11:45:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "アガリの取り分で揉めたんじゃねぇのか",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "アガリの取り分で揉めたんじゃねぇのか",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "27cecc9c-067c-4eb4-861a-b6b5d2f10f0f",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5d3cd51d-5ba3-4057-9b64-288349f55a17"
+              },
+              "created_time": "2023-05-16T11:47:00.000Z",
+              "last_edited_time": "2023-05-16T11:48:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "fight over",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "fight over",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "～のことで［～を巡って］言い争う［激論する］",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "～のことで［～を巡って］言い争う［激論する］",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "86412965-87e1-4586-a342-fc9886490119",
+              "parent": {
+                "type": "block_id",
+                "block_id": "5d3cd51d-5ba3-4057-9b64-288349f55a17"
+              },
+              "created_time": "2023-05-16T11:47:00.000Z",
+              "last_edited_time": "2023-05-16T11:47:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "cut",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "cut",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "分け前、取り分",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "分け前、取り分",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「〜について」を表す 前置詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「〜について」を表す 前置詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "詳しさでいえば、on > about > of 、時間的な長さでいえば、over > about となる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "詳しさでいえば、on > about > of 、時間的な長さでいえば、over > about となる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "on",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "on は、2つのものがくっついている接触のイメージ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "on は、2つのものがくっついている接触のイメージ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "そのため、2つのものの関係は密接であり、「〜について」詳しく、情報量が多いものを表す。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "そのため、2つのものの関係は密接であり、「〜について」詳しく、情報量が多いものを表す。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a TV program ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a TV program ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " cats",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " cats",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "caa6bf2a-f279-408a-a5f8-990bb65ec1bc",
+              "parent": {
+                "type": "block_id",
+                "block_id": "36b3b8c8-5e50-4d2f-9e65-67f8704a2708"
+              },
+              "created_time": "2023-05-21T07:43:00.000Z",
+              "last_edited_time": "2023-05-21T07:43:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "猫についてのテレビ番組",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "猫についてのテレビ番組",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a book ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a book ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " linear algebra",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " linear algebra",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "5ee23eed-fa6a-4028-9984-c8cf211c2422",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c89f3aa8-080d-463d-bda3-cb8ef9cadb64"
+              },
+              "created_time": "2023-05-21T07:43:00.000Z",
+              "last_edited_time": "2023-05-21T07:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "線形代数についての本",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "線形代数についての本",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a report ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a report ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "  aerial pollution",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  aerial pollution",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "d6298476-120c-429e-970b-996ebad68cd1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f821b390-0f30-471d-980b-ece0c709a683"
+              },
+              "created_time": "2023-05-21T07:44:00.000Z",
+              "last_edited_time": "2023-05-21T07:44:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "大気汚染についての報告書",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "大気汚染についての報告書",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a lecture ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a lecture ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " linear algebra",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " linear algebra",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "e93db7da-338a-4a90-afd2-c0a65eec57e0",
+              "parent": {
+                "type": "block_id",
+                "block_id": "38656c8b-7c6b-4ac9-b364-825373093594"
+              },
+              "created_time": "2023-05-21T07:45:00.000Z",
+              "last_edited_time": "2023-05-21T07:45:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "線形代数の講義",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "線形代数の講義",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a authority ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a authority ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " psychiatry",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " psychiatry",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "28a5f540-d8eb-4457-b82d-4bc15af6f16e",
+              "parent": {
+                "type": "block_id",
+                "block_id": "6b2ca5bb-d8b3-4bbe-ace9-af145234c3a9"
+              },
+              "created_time": "2023-05-21T07:46:00.000Z",
+              "last_edited_time": "2023-05-21T07:46:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "精神医学の権威者",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "精神医学の権威者",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "about ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "about ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "about は、何かを中心に、その周囲を漠然と取り巻くイメージ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "about は、何かを中心に、その周囲を漠然と取り巻くイメージ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "何かを中心に、その周辺のことも扱うことで、「〜について」という関連・関係を表す。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "何かを中心に、その周辺のことも扱うことで、「〜について」という関連・関係を表す。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a book ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a book ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "about",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "about",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " cats",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " cats",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "a42300cb-7308-4a47-8225-3e631f7cbe5a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "e4fe4df1-7e9c-4659-8940-5b24abe7ff7c"
+              },
+              "created_time": "2023-05-16T11:57:00.000Z",
+              "last_edited_time": "2023-05-16T11:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "猫についての本",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "猫についての本",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She talked ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She talked ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "about",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "about",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " what she was interested in.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " what she was interested in.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "8aebe542-85da-4202-b9f6-64ac5330b8a1",
+              "parent": {
+                "type": "block_id",
+                "block_id": "99f1396e-4c35-461c-acce-e9ed4bf50e91"
+              },
+              "created_time": "2023-05-16T11:57:00.000Z",
+              "last_edited_time": "2023-05-16T11:57:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "彼女は自分が興味あることについて話した。",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "彼女は自分が興味あることについて話した。",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "また、周囲・近辺の「あちこち」というイメージから、「〜についてあれこれと」というニュアンスも持つ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "また、周囲・近辺の「あちこち」というイメージから、「〜についてあれこれと」というニュアンスも持つ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "bb9a1040-f7c0-4c37-80da-1345452e46c4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:52:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "worry ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "worry ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配する、不安に思っている",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配する、不安に思っている",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "b9e680f1-99c3-4d77-a774-d9cd0efb9f5a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:52:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be worried ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be worried ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配している",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配している",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "6faa77df-7db6-4826-87ff-9ecc69ecb155",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:52:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "care ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "care ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配する、気にかける",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配する、気にかける",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "78507973-00b1-4ddf-93c9-ea83b1dc69a4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:53:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be anxious ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be anxious ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配している",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配している",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "caa34502-b58f-40d0-ae77-add8a12734a5",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:53:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be concerned ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be concerned ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配している",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配している",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "239b9be9-6df3-433d-899a-f194e0640e12",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:53:00.000Z",
+              "last_edited_time": "2023-05-21T07:53:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be uneasy ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be uneasy ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について心配な（不安な）",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について心配な（不安な）",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "b6b0861c-4edf-4265-8e0a-491613dd8db9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:53:00.000Z",
+              "last_edited_time": "2023-05-21T07:55:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be curious ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be curious ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜に好奇心がある（あれこれ知りたがって）",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜に好奇心がある（あれこれ知りたがって）",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "97f95bd0-3bbb-4f94-ba98-4741602ebc93",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:54:00.000Z",
+              "last_edited_time": "2023-05-21T07:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be particular ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be particular ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について（好みが）うるさい",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について（好みが）うるさい",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "78ba88da-99f1-4c09-9068-4f5daec344f8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:55:00.000Z",
+              "last_edited_time": "2023-05-21T07:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "talk ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "talk ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について話す",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について話す",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "85e1c5dc-acc0-403e-9ec1-1394486cb3c6",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:55:00.000Z",
+              "last_edited_time": "2023-05-21T07:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "argue ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "argue ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について議論する",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について議論する",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "f905e307-2a77-4bf9-8b2d-1f84e83a9494",
+              "parent": {
+                "type": "block_id",
+                "block_id": "789b8ace-1b6b-4ec2-a6fe-09b262eda717"
+              },
+              "created_time": "2023-05-21T07:56:00.000Z",
+              "last_edited_time": "2023-05-21T07:56:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be doubtful ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be doubtful ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "about",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "about",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜について疑いを持っている",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜について疑いを持っている",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "of",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "of",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "of は、離れていても関係がある、というイメージ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "of は、離れていても関係がある、というイメージ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "そのため、on ほど情報量は多くなく、 about ほど興味があるわけでもない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "そのため、on ほど情報量は多くなく、 about ほど興味があるわけでもない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "200b4ab7-1996-4ac1-84b6-447cd23296f4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T07:58:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "be aware ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "be aware ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜に気づいている",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜に気づいている",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "0b802b43-c680-47aa-b5c9-12dab49b277c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T07:58:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "suspect A ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "suspect A ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " B",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " B",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "AをBのことで疑う",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "AをBのことで疑う",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "72722037-6178-4de9-b1d4-4715f7602de9",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T07:58:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "inform A ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "inform A ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " B ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " B ",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "AにBのことを伝える",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "AにBのことを伝える",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "fd4f80f7-bc23-4799-ab49-2bb86c5d668b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T08:00:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "warn A ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "warn A ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " B",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " B",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "AにBのことについて警告する",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "AにBのことについて警告する",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "d5413751-da06-4625-aca3-9580720ba26c",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T08:00:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "hear ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "hear ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": " ~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": " ~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜の噂を聞く",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜の噂を聞く",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            },
+            {
+              "object": "block",
+              "id": "82e361db-01e7-4dfb-98d0-a61deeb2577b",
+              "parent": {
+                "type": "block_id",
+                "block_id": "fa3ab80a-bce6-4c87-ad5b-a3a45eff4863"
+              },
+              "created_time": "2023-05-21T08:00:00.000Z",
+              "last_edited_time": "2023-05-21T08:01:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "know ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "know ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "of ",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "purple"
+                      },
+                      "plain_text": "of ",
+                      "href": null
+                    },
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "~",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "~",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "〜を人づてに聞いて知っている",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "〜を人づてに聞いて知っている",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "over",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "over は、広がりのある覆いのイメージ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "over は、広がりのある覆いのイメージ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "about はその瞬間周辺を表すが、over は長く時間がかかるニュアンスを持つ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "about はその瞬間周辺を表すが、over は長く時間がかかるニュアンスを持つ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "そのため、「〜について長々と、いつまでも」という意味合いになる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "そのため、「〜について長々と、いつまでも」という意味合いになる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "augue ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "augue ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " economic issues",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " economic issues",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "36e4b9e0-b9a2-47c6-9880-7bc380579723",
+              "parent": {
+                "type": "block_id",
+                "block_id": "c1312b5d-13c8-45de-b180-36efb7ee8a01"
+              },
+              "created_time": "2023-05-21T08:03:00.000Z",
+              "last_edited_time": "2023-05-21T08:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "経済問題について議論する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "経済問題について議論する",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a fight ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a fight ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " politics",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " politics",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "5e9f4a5c-eb16-4ad3-b549-622d114dc2e8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "ad7e6c3e-7711-499b-b16d-d5fe07b4a472"
+              },
+              "created_time": "2023-05-21T08:03:00.000Z",
+              "last_edited_time": "2023-05-21T08:03:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "政治上の口論",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "政治上の口論",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a quarrel ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a quarrel ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the TV channel",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the TV channel",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "b447796a-22c2-4bbe-a359-d592db2d5bd4",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f3b72149-f465-451c-bcdf-ebe17986c84b"
+              },
+              "created_time": "2023-05-21T08:04:00.000Z",
+              "last_edited_time": "2023-05-21T08:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "テレビのチャンネルでの口喧嘩",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "テレビのチャンネルでの口喧嘩",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a dispute ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a dispute ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the money",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "98f7ddb3-fd1d-4f56-ab88-b8a868a9d2e8",
+              "parent": {
+                "type": "block_id",
+                "block_id": "d53a3e95-4ffc-4654-bcee-be5e9b2f4129"
+              },
+              "created_time": "2023-05-21T08:04:00.000Z",
+              "last_edited_time": "2023-05-21T08:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "お金に関する争い",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "お金に関する争い",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "worry ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "worry ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the future",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the future",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "5981c456-504a-4ae0-8bff-2a404f0e15a2",
+              "parent": {
+                "type": "block_id",
+                "block_id": "2f73a22e-4388-483e-8bb7-b9c8c7e0569b"
+              },
+              "created_time": "2023-05-21T08:04:00.000Z",
+              "last_edited_time": "2023-05-21T08:04:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "我々の将来を心配する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "我々の将来を心配する",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "grieve ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "grieve ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "over",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "over",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the sad result",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the sad result",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "0a359ac1-df1d-4f83-8cd1-29a5917b3c55",
+              "parent": {
+                "type": "block_id",
+                "block_id": "b28453a7-dd15-41dd-b846-22dc9f518cb6"
+              },
+              "created_time": "2023-05-21T08:04:00.000Z",
+              "last_edited_time": "2023-05-21T08:05:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "その悲しい結末を嘆き悲しむ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "その悲しい結末を嘆き悲しむ",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Boss, what should we do about Hirata ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Boss, what should we do about Hirata ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "b8f3c24e-38cd-4459-b3ad-60edf9f9d836",
+              "parent": {
+                "type": "block_id",
+                "block_id": "99518706-e5e9-4eca-95d9-5b3ffe29d655"
+              },
+              "created_time": "2023-05-21T08:07:00.000Z",
+              "last_edited_time": "2023-05-21T08:07:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "頭、平田の奴はどうしますか",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "頭、平田の奴はどうしますか",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What happened with Hirata ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What happened with Hirata ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "961e77e4-8d04-41ae-988b-8bdfb910eb41",
+              "parent": {
+                "type": "block_id",
+                "block_id": "712a6408-3b40-429a-8f73-a2c8bfd4ea29"
+              },
+              "created_time": "2023-05-21T08:08:00.000Z",
+              "last_edited_time": "2023-05-21T08:08:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "paragraph",
+              "paragraph": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "平田がどうした",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "平田がどうした",
+                    "href": null
+                  }
+                ],
+                "color": "default"
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": {
+          "object": "list",
+          "results": [
+            {
+              "object": "block",
+              "id": "62519e5b-920d-440c-92ff-9fafb80f406a",
+              "parent": {
+                "type": "block_id",
+                "block_id": "f5426e65-5230-42b1-b1aa-4c9690c9a4e9"
+              },
+              "created_time": "2023-05-21T08:12:00.000Z",
+              "last_edited_time": "2023-05-21T08:12:00.000Z",
+              "created_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "last_edited_by": {
+                "object": "user",
+                "id": "081875fe-b5cd-4cbd-883a-39343f5c8485"
+              },
+              "has_children": false,
+              "archived": false,
+              "type": "table_row",
+              "table_row": {
+                "cells": [
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "happen",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "happen",
+                      "href": null
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": {
+                        "content": "起こる",
+                        "link": null
+                      },
+                      "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                      },
+                      "plain_text": "起こる",
+                      "href": null
+                    }
+                  ]
+                ]
+              }
+            }
+          ],
+          "next_cursor": null,
+          "has_more": false,
+          "type": "block",
+          "block": {}
+        }
+      }
+    },
+    {
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "直訳：「平田に何が起きた？」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "直訳：「平田に何が起きた？」",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "対象を表す with",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "対象を表す with",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    }
+  ]
+}
