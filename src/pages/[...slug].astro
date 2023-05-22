@@ -31,9 +31,10 @@ export async function getStaticPaths() {
         .split("/")
         .filter((sep) => sep.length > 0 && sep !== "data")
         .concat(name)
+      const props = { slug }
       return {
         params: { slug: slug.join("/") },
-        props: typeof module === "object" ? { ...module, slug } : { slug }
+        props: typeof module === "object" ? { ...module, ...props } : props
       }
     })
   )
