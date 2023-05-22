@@ -22,9 +22,10 @@ import JaToggle from "@/components/notion/ja-toggle.svelte"
 
 export async function getStaticPaths() {
   const modules = import.meta.glob("/data/**/*.json")
+  const entries = Object.entries(modules)
 
   const pages = await Promise.all(
-    Object.entries(modules).map(async ([path, importFn]) => {
+    entries.map(async ([path, importFn]) => {
       const module = await importFn()
       const { dir, name } = parse(path)
       const slug = dir
