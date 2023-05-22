@@ -63,7 +63,7 @@ const getBlockRecursive = async (
       const children = await getBlock(result.id)
       const type = parsed.type
       const content = parsed[type]
-      return { ...parsed, [type]: { ...content, children } }
+      return { ...parsed, [type]: { ...content, children: children.results.map((ch) => parseBlock(ch)) } }
     })
   )
 
