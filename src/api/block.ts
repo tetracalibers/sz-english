@@ -114,7 +114,7 @@ export const updatePageContent = async () => {
     await Promise.all(
       nodeList.map(async (node, i) => {
         if (!isNeedUpdate(node)) {
-          printSkipLog(node.path.concat([node.title]).join("/"))
+          printSkipLog(node.path.concat([node.title]).join(" / "))
           return
         }
 
