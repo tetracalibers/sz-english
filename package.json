@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "update-content": "ts-node --esm src/api/index.ts"
   },
   "dependencies": {
     "@astrojs/svelte": "^2.1.1",
