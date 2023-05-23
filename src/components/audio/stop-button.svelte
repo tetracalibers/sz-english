@@ -5,7 +5,7 @@
 </script>
 
 <button on:click={stop} aria-label="stop">
-  <StopIcon size="1rem" />
+  <StopIcon size="16px" />
 </button>
 
 <style>
