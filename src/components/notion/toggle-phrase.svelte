@@ -58,6 +58,11 @@
     display: flex;
     align-items: flex-start;
     gap: 0.5rem;
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
   }
 
   details[open] .toggle-marker {
