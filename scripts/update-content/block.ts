@@ -29,13 +29,13 @@ const hasChildren = (block: BlockObject) => {
 const parseBlock = (block: BlockObject) => {
   if (!("type" in block)) return null
 
-  const { type } = block
+  const { type, id } = block
   const content = block[type]
 
   if ("rich_text" in content && content.rich_text.length < 1) return null
 
   const items = { [type]: content }
-  return { type, ...items }
+  return { type, id, ...items }
 }
 
 const getBlock = async (blockId: string, start?: string) => {
