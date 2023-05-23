@@ -1,4 +1,3 @@
-import pagesJson from "../../meta/pages.json" assert { type: "json" }
 import lastUpdatedMap from "../../meta/last-updated.json" assert { type: "json" }
 import { BlockObjectResponse, ListBlockChildrenResponse } from "@notionhq/client/build/src/api-endpoints"
 import fs from "node:fs/promises"
@@ -18,8 +17,6 @@ type PageMeta = Omit<PageTree, "children">
 type PageNode = PageMeta & {
   path: string[]
 }
-
-const pages: PageTree[] = pagesJson
 
 const hasChildren = (block: BlockObject) => {
   if (!("has_children" in block)) return false
@@ -102,7 +99,7 @@ const isNeedUpdate = (node: PageNode) => {
   return notionUpdatedDate > syncedDate
 }
 
-export const updatePageContent = async () => {
+export const updatePageContent = async (pages: PageTree[]) => {
   for (const page of pages) {
     const nodeList = getNode(page)
 

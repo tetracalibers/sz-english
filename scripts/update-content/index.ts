@@ -4,8 +4,8 @@ import { updatePagesMap } from "./page.js"
 import { generateTocMap } from "./toc.js"
 
 const update = async () => {
-  await updatePagesMap()
-  await updatePageContent()
+  const pages = await updatePagesMap()
+  await updatePageContent(pages)
   await updateSyncDateMap()
   await generateTocMap()
 }

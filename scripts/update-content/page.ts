@@ -49,4 +49,5 @@ export const updatePagesMap = async () => {
   const childPages = await collectChildPageList(root)
   await fs.writeFile("meta/pages.json", JSON.stringify(childPages, null, 2))
   printFileUpdatedLog("meta/pages.json")
+  return childPages
 }
