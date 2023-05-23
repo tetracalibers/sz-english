@@ -20,8 +20,8 @@
 <style>
   h2 {
     display: flex;
-    align-items: flex-start;
-    gap: 1rem;
+    align-items: center;
+    gap: 0.8rem;
 
     margin: 0;
     padding: 0.8em 0;
