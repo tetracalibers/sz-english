@@ -17,8 +17,11 @@ export const pager = (entries: [string, () => Promise<unknown>][], currIdx: numb
   const prevPath = prevEntry ? prevEntry[0] : null
   const nextPath = nextEntry ? nextEntry[0] : null
 
-  const prev = prevPath ? "../" + toSlug(prevPath) : null
-  const next = nextPath ? "../" + toSlug(nextPath) : null
+  const origin = import.meta.env.DEV ? "http://localhost:3000" : import.meta.env.SITE
+  const base = origin + import.meta.env.BASE_URL
+
+  const prev = prevPath ? base + toSlug(prevPath) : null
+  const next = nextPath ? base + toSlug(nextPath) : null
 
   return { prev, next }
 }
