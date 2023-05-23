@@ -17,6 +17,7 @@
     align-items: center;
     color: #fff;
     border: 0;
+    padding: 0;
     background-image: linear-gradient(135deg, #90f7ec 10%, #32ccbc 100%);
     appearance: none;
     cursor: pointer;
