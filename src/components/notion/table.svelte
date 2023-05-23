@@ -36,8 +36,9 @@
 <style>
   .record {
     display: flex;
-    gap: 2rem;
-    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
     border-bottom: 1px dashed #7c96ab;
   }
 
@@ -55,10 +56,12 @@
 
   .key {
     line-height: 2;
+    display: contents;
   }
 
   .value {
     margin: 0;
-    text-align: end;
+    margin-inline-start: auto;
+    font-size: 0.9rem;
   }
 </style>

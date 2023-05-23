@@ -12,19 +12,24 @@
 
 <div class="cell">
   <PlayButton play={speaker.speak} />
-  {#each richtexts as item}
-    <RichText richtext={item} />
-  {/each}
+  <div class="text">
+    {#each richtexts as item}
+      <RichText richtext={item} />
+    {/each}
+  </div>
 </div>
 
 <style>
   .cell {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    display: contents;
   }
 
   .cell :global(> button) {
     scale: 0.7;
+    flex-shrink: 0;
+  }
+
+  .text {
+    white-space: nowrap;
   }
 </style>
