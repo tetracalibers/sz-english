@@ -17,8 +17,8 @@ export const pager = (entries: [string, () => Promise<unknown>][], currIdx: numb
   const prevPath = prevEntry ? prevEntry[0] : null
   const nextPath = nextEntry ? nextEntry[0] : null
 
-  const prev = prevPath ? parse(prevPath).name : null
-  const next = nextPath ? parse(nextPath).name : null
+  const prev = prevPath ? "../" + toSlug(prevPath) : null
+  const next = nextPath ? "../" + toSlug(nextPath) : null
 
   return { prev, next }
 }
