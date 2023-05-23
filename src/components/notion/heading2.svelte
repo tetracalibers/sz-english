@@ -8,9 +8,10 @@
   }
 
   export let content: Content
+  export let id: string
 </script>
 
-<h2>
+<h2 {id}>
   {#each content.rich_text as item}
     <RichText richtext={item} />
   {/each}

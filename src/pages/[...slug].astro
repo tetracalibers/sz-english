@@ -72,7 +72,7 @@ const { slug, prev, next, blocks } = Astro.props
           } else if (isParagraph(block)) {
             return <Paragraph content={block.paragraph} />
           } else if (isHeading2(block)) {
-            return <Heading2 content={block.heading_2} />
+            return <Heading2 id={block.id} content={block.heading_2} />
           } else if (isToggle(block)) {
             return <TogglePhrase content={block.toggle} client:visible />
           } else if (isQuote(block)) {
