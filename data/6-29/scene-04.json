@@ -1,7 +1,7 @@
 {
-  "title": "竜崎と幹部は破門 松原組は解散",
+  "title": "会議",
   "id": "2972a344-ff94-41f2-9877-b105161b773e",
-  "last_edited_time": "2023-05-21T12:18:00.000Z",
+  "last_edited_time": "2023-05-23T22:44:00.000Z",
   "path": [
     "6 - 29"
   ],
@@ -4853,6 +4853,2225 @@
         "is_toggleable": false,
         "color": "default"
       }
+    },
+    {
+      "type": "paragraph",
+      "id": "ebf1b8cb-2a3f-48b4-9e77-1326bc43a508",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "with は",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "with は",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "一時的な関係",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一時的な関係",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "を表す。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "を表す。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "777482de-09a7-4a9a-88df-354d9b5d6c15",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "一時的に何かが起こったとき、その出来事と、それを被る対象との関連「",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一時的に何かが起こったとき、その出来事と、それを被る対象との関連「",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "〜にとって",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜にとって",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "」を表す際にも使われる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "」を表す際にも使われる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "574c2d5d-08d4-45f8-a7b5-f2996e4a0b2c",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s wrong ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s wrong ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "with",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "with",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " you ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " you ?",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3ce60d57-7a7d-4d57-b3f0-0746810f7a8c",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "どうかしましたか？（あなたにとって何が都合が悪い？）",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "どうかしましたか？（あなたにとって何が都合が悪い？）",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "80ca0f9c-a726-48d6-8553-f4aeb6baffb7",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s the matter ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s the matter ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "with",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "with",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " you ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " you ?",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "6f545c04-5c44-4281-87ef-e14085b23dbe",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "どうかしましたか？（あなたにとって何が問題？）",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "どうかしましたか？（あなたにとって何が問題？）",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "cf2bd7e4-54c2-497a-98ec-d07d4f205665",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That’s fine ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That’s fine ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "with",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "with",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " me.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " me.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "2ab51a32-6d7d-4b68-87c2-f3b1caec214d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "それは結構ですね（それは私にとって都合がいい）",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "それは結構ですね（それは私にとって都合がいい）",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "4858a479-934a-403d-be3b-52d98b79ebd2",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "d64d1bd3-62b2-4cef-a1ab-482b73570f9a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "fine",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "fine",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "良い、結構な、構わない",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "良い、結構な、構わない",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "divider",
+      "id": "3c27b22b-bc34-42d1-8ec5-ad98b917d78a",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "id": "46f1eba9-6996-4b3a-8afc-587e8a4834ad",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Well, regarding the incident the other day, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Well, regarding the incident the other day, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "where",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "where",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the young leader of Shinsei-kai was shot …",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the young leader of Shinsei-kai was shot …",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "a68162cb-3ae4-4443-8b27-9568ec6c7196",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c945083e-d3e6-4594-ab20-9f2490ffd7c9",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "いえね、先日の真誠会の若頭が撃たれた件といい",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "いえね、先日の真誠会の若頭が撃たれた件といい",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "53fdca8d-4323-4a15-9f37-01d70754783f",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "ab6ab9ec-fe14-4d11-85f2-3c80e283c69b",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "regarding",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "regarding",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～に関して、～について、～の点で",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～に関して、～について、～の点で",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "0981563f-9dde-4ee1-a3bb-18e921b80388",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "incident",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "incident",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔1回だけの〕出来事、〔偶発的な〕事件",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔1回だけの〕出来事、〔偶発的な〕事件",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "69baca10-7406-49bf-9e96-fcbab74564c8",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "the order day",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "the order day",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "先日、この間",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "先日、この間",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "divider",
+      "id": "0067d32d-7802-41e3-b8e7-115ea4d379f2",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "id": "5c13ed40-19ae-4071-8afb-f52990f880bc",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I heard it may have been the result of a dispute he ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I heard it may have been the result of a dispute he ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "had",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "had",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " with Matsubara.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " with Matsubara.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "7eb3ea25-aa0d-4497-a626-4a5fd533fc96",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "f26c1c46-9bc2-4567-9f8f-960356dcaf3a",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "どうも松原と揉めてんじゃねぇのかって小耳に挟んでまして",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "どうも松原と揉めてんじゃねぇのかって小耳に挟んでまして",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "c96af616-2a21-4702-becb-536f50605cb6",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "d9f2f809-ecf5-487c-ac65-a4de0a7a5ac2",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "dispute",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "dispute",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "論争、口論",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "論争、口論",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "6ecc0ca3-1267-450b-aa4f-71f100e5bc4d",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "that がところどころ省略されている。省略せずに書くと、",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "that がところどころ省略されている。省略せずに書くと、",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "quote",
+      "id": "040166e2-15f3-43ff-b95a-1009ebda7653",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I heard ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I heard ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "that",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "that",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " it may have been the result of a dispute ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " it may have been the result of a dispute ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "that",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "that",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " he had with Matsubara.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " he had with Matsubara.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "9c155a79-3ff4-4ec5-a39f-775a54d7f05f",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "直訳：「それは彼と松原の口論の結果だったのかもしれないと耳にした」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "直訳：「それは彼と松原の口論の結果だったのかもしれないと耳にした」",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b4d45a7d-f1ac-47c2-8223-31b6a8a86da9",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "it may have been the result は結果を表す完了形。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "it may have been the result は結果を表す完了形。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "6f895831-fbec-4caf-b584-0382264cfb5d",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "構成要素・材料・材質を表す of",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "構成要素・材料・材質を表す of",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "1eb5e39d-2e1b-4b02-b9ba-538262e39c0c",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "of は、",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "of は、",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "頭の中では切り離された概念であっても、実は繋がりがある",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "頭の中では切り離された概念であっても、実は繋がりがある",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "というニュアンスを持つ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "というニュアンスを持つ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "185476a7-b9c7-4b21-8540-e24b3e89db91",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "たとえば、ケーキと小麦粉は別なものだが、小麦粉で作ったケーキがあるとき、それらは関連しているということになる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "たとえば、ケーキと小麦粉は別なものだが、小麦粉で作ったケーキがあるとき、それらは関連しているということになる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "c7aa2f06-aa3a-49e5-b2a7-ba47efb46384",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "このイメージから、of は「",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "このイメージから、of は「",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "〜でできた",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜でできた",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "」という構成要素・材料・材質を表す際にも使われる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "」という構成要素・材料・材質を表す際にも使われる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "76cc825d-2663-4814-930b-d03426dde6f7",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This box is made ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This box is made ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "of",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "of",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " wood.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " wood.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ffdb8b43-5403-4211-835b-016f5d6af9c2",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "この箱は木製です。（この箱は木から作られている）",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "この箱は木製です。（この箱は木から作られている）",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "1c8aad4b-b84f-40d4-821b-703d29cddc2d",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This cake is made ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This cake is made ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "of",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "of",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "  flour.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  flour.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "d2d7465f-af0f-4d61-bd6f-ad72780f75ee",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "このケーキは小麦粉から作られています。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "このケーキは小麦粉から作られています。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "22ce64ee-f328-4f00-b5cc-84e5dc3e4769",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "a plate ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a plate ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "of",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "of",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " glass",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " glass",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ca60fa8c-8b94-4a81-bed4-fc12c3588ac0",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ガラス製の皿",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ガラス製の皿",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "divider",
+      "id": "f2bfa54c-1f39-4b91-b0a1-f242ed703660",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "id": "e86f02cc-a0cf-4ff6-8cbb-e73f29aa019c",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m sure you’re aware that Hirata has been amassing a substantial amount of money.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m sure you’re aware that Hirata has been amassing a substantial amount of money.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "649333f5-5410-4cca-a838-2907366cbd9b",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "fbb347ea-70f7-4fd3-8cd3-3337c3542823",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "平田が相当の金集めてたってのは知ってますよね",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "平田が相当の金集めてたってのは知ってますよね",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "82231568-3822-435b-84e9-00f9e602a425",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "bee52c67-fc12-4eb2-bec9-422c0561ec7b",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "sure",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "sure",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "確信している",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "確信している",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "6ee66fad-1c85-48df-be59-c8198a8986ea",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "be aware",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "be aware",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～を知っている、～が分かっている（直接見聞きしたり、人づてに聞いたりして ＝ 知覚由来）",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～を知っている、～が分かっている（直接見聞きしたり、人づてに聞いたりして ＝ 知覚由来）",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "9acd391c-2500-400c-805f-42289ed9bf0a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "amass",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "amass",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "蓄える、寄せ集める、収集する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "蓄える、寄せ集める、収集する",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "7b8bb495-a186-473d-a5b5-79c428f89023",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "substantial",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "substantial",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔数量・程度などが〕かなりの、相当な",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔数量・程度などが〕かなりの、相当な",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "ef9c877b-c0d8-451a-b87f-94d0f8b7372d",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "has been amassing は完了進行形。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "has been amassing は完了進行形。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "ce17131c-c940-4487-97c1-682233f3fb8e",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "完了進行形の使いどころ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "完了進行形の使いどころ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "c9fdf7cc-2ebd-484b-91b7-0bfccb08bd8f",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "6e7759b1-3011-4eec-9a4a-2056b81a54b2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "量で捉える名詞は数えない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "量で捉える名詞は数えない",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b6dd7fd3-9910-41cc-ad2e-7dc4ef0fbe29",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "divider",
+      "id": "0750538f-2bfa-40c4-a5dd-62f42fd8ac49",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "id": "032d582c-bdf3-4107-90e4-f9a6851b4b07",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s possible that the Shinsei-kai were the ones behind the drug trafficking all along, and the Matsubara-gumi was just being used as their errand boys.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s possible that the Shinsei-kai were the ones behind the drug trafficking all along, and the Matsubara-gumi was just being used as their errand boys.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "38a9da5a-9002-494f-8e8d-c5d9285b9aff",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Woudn’t you agree ? ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Woudn’t you agree ? ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "1a5ddc64-8f09-4e4e-8b8b-3787b0aa47b3",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c53ba4bd-14ca-4886-ba0d-5fd4c89486b4",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "シャブに手ぇ出してたのは真誠会で松原組は単なる使いっ走りじゃねーのかって…ね",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "シャブに手ぇ出してたのは真誠会で松原組は単なる使いっ走りじゃねーのかって…ね",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "9172af84-29ea-4a9b-980b-c1837d830364",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "divider",
+      "id": "9f43e74a-6161-40bb-a8ae-0610cb339b7a",
+      "divider": {}
+    },
+    {
+      "type": "callout",
+      "id": "18e01805-1fe6-4186-abf0-b446913ffd1f",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You son of a bitch !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You son of a bitch !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "2a0a8022-400e-422e-a215-99b210cbc8ed",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Are you trying to accuse the boss ?",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Are you trying to accuse the boss ?",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "85678032-4fb4-4d2c-be32-06b33ed07f0d",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in Japanese",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Japanese",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c738aed2-4f51-47ed-b494-a747d20006fb",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "柳てめえ 頭に注文つける気か",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "柳てめえ 頭に注文つける気か",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "0c5e03a4-6379-47eb-85c0-b98e7587eb4c",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "divider",
+      "id": "4d92a5fe-a3c2-478b-a4c9-31e78f338bcc",
+      "divider": {}
     }
   ]
 }
