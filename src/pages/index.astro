@@ -1,10 +1,11 @@
 ---
 import BaseHtml from "@/layout/base-html.astro"
-import { toSlug } from "@/lib/ui/slug"
+import { toSectionSlugs } from "@/lib/ui/slug"
 import { glob } from "glob"
 import toc from "~/meta/toc.json" assert { type: "json" }
 
-const pages = (await glob("data/**/*.json")).sort().map((path) => toSlug(path))
+const pages = (await glob("data/**/*.json")).sort()
+const sections = toSectionSlugs(pages)
 ---
 
 <BaseHtml>
@@ -15,9 +16,9 @@ const pages = (await glob("data/**/*.json")).sort().map((path) => toSlug(path))
       <h2>Story</h2>
       <ul>
         {
-          pages.map((page) => (
+          sections.map((section) => (
             <li>
-              <a href={page}>{page}</a>
+              <a href={section.first}>{section.name}</a>
             </li>
           ))
         }

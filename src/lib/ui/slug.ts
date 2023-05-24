@@ -10,6 +10,23 @@ export const toSlug = (path: string) => {
   return slug
 }
 
+export const toSectionSlugs = (paths: string[]) => {
+  const _sections = new Set<string>()
+  const result = new Set<{ name: string; first: string }>()
+  paths.forEach((path) => {
+    const { dir, name } = parse(path)
+    const section = dir
+      .split("/")
+      .filter((sep) => sep.length > 0 && sep !== "data")
+      .join("/")
+    if (_sections.has(section)) return
+    const slug = section + "/" + name
+    _sections.add(section)
+    result.add({ name: section, first: slug })
+  })
+  return Array.from(result)
+}
+
 export const home = () => {
   const origin = import.meta.env.DEV ? "http://localhost:3000" : import.meta.env.SITE
   const base = origin + import.meta.env.BASE_URL
