@@ -10,6 +10,12 @@ export const toSlug = (path: string) => {
   return slug
 }
 
+export const home = () => {
+  const origin = import.meta.env.DEV ? "http://localhost:3000" : import.meta.env.SITE
+  const base = origin + import.meta.env.BASE_URL
+  return base
+}
+
 export const pager = (entries: [string, () => Promise<unknown>][], currIdx: number) => {
   const prevEntry = entries[currIdx - 1]
   const nextEntry = entries[currIdx + 1]
@@ -17,8 +23,7 @@ export const pager = (entries: [string, () => Promise<unknown>][], currIdx: numb
   const prevPath = prevEntry ? prevEntry[0] : null
   const nextPath = nextEntry ? nextEntry[0] : null
 
-  const origin = import.meta.env.DEV ? "http://localhost:3000" : import.meta.env.SITE
-  const base = origin + import.meta.env.BASE_URL
+  const base = home()
 
   const prev = prevPath ? base + toSlug(prevPath) : null
   const next = nextPath ? base + toSlug(nextPath) : null

@@ -65,7 +65,7 @@ const section = slug.split("/").slice(0, -1).join("/")
         <span class="heading-section">{section}</span>
         <span class="heading-title">{title}</span>
       </h1>
-      <PrevNextLink prev={prev} next={next} />
+      <PrevNextLink prev={prev} next={next} place="top" />
     </div>
     <div class="blocks">
       {
@@ -90,7 +90,7 @@ const section = slug.split("/").slice(0, -1).join("/")
         })
       }
     </div>
-    <PrevNextLink prev={prev} next={next} />
+    <PrevNextLink prev={prev} next={next} place="bottom" />
   </Sprite.Provider>
 </BaseHtml>
 
@@ -99,6 +99,10 @@ const section = slug.split("/").slice(0, -1).join("/")
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    margin: -1rem;
+    padding: 1rem;
+    background: #eeeeee;
+    background-image: linear-gradient(to bottom, #f9f9f9, rgba(255, 255, 255, 0));
   }
 
   .blocks {

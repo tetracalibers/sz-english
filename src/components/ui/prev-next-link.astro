@@ -1,15 +1,17 @@
 ---
-import { Sprite } from "astro-icon"
+import { home } from "@/lib/ui/slug"
+import { Icon, Sprite } from "astro-icon"
 
 interface Props {
   prev: string | null
   next: string | null
+  place: "top" | "bottom"
 }
 
-const { prev, next } = Astro.props
+const { prev, next, place } = Astro.props
 ---
 
-<div class="link-group">
+<div class:list={["link-group", `--${place}`]}>
   {
     prev && (
       <a href={prev} class="prev">
@@ -18,6 +20,9 @@ const { prev, next } = Astro.props
       </a>
     )
   }
+  <a href={home()} class="home">
+    <Icon name="game-icons/bird-cage" />
+  </a>
   {
     next && (
       <a href={next} class="next">
@@ -32,7 +37,14 @@ const { prev, next } = Astro.props
   .link-group {
     display: flex;
     justify-content: space-between;
-    padding-block-start: 1rem;
+    padding: 1rem;
+    position: relative;
+    margin-inline: -1rem;
+  }
+
+  .link-group.--bottom {
+    background: #eeeeee;
+    background-image: linear-gradient(to top, #f9f9f9, rgba(255, 255, 255, 0));
   }
 
   .prev {
@@ -40,17 +52,24 @@ const { prev, next } = Astro.props
   }
 
   /** prevがないときも右寄せ */
-  .next:first-child {
+  .next:nth-child(2) {
     margin-left: auto;
   }
 
-  :is(.prev, .next) {
+  .home {
+    position: absolute;
+    left: 50%;
+    translate: -50%;
+    opacity: 0.6;
+  }
+
+  :is(.prev, .next, .home) {
     display: flex;
     align-items: center;
     color: currentColor;
   }
 
-  :is(.prev, .next) > :global(*) {
+  :is(.prev, .next, .home) > :global(*) {
     width: 2rem;
     height: 2rem;
   }
