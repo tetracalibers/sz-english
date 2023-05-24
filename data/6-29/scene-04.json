@@ -1,7 +1,7 @@
 {
   "title": "会議",
   "id": "2972a344-ff94-41f2-9877-b105161b773e",
-  "last_edited_time": "2023-05-24T11:52:00.000Z",
+  "last_edited_time": "2023-05-24T12:35:00.000Z",
   "path": [
     "6 - 29"
   ],
@@ -6701,13 +6701,13 @@
     },
     {
       "type": "paragraph",
-      "id": "c9fdf7cc-2ebd-484b-91b7-0bfccb08bd8f",
+      "id": "0316f28b-01bc-4754-9daa-077c4892205c",
       "paragraph": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "WIP",
+              "content": "完了形は、 ",
               "link": null
             },
             "annotations": {
@@ -6718,7 +6718,1627 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "WIP",
+            "plain_text": "完了形は、 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "過去に起きたことが現在に影響を与える ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "過去に起きたことが現在に影響を与える ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ことを表す。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ことを表す。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "1df2626b-0a12-452b-98c9-ebc4aed823e0",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "その中には、過去に始めたことが現在も続いている、という ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "その中には、過去に始めたことが現在も続いている、という ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "継続 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "継続 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "も含まれる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "も含まれる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "fb948fd2-2309-44f7-9b3e-1b5cc5c0be15",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "完了形の継続用法では、継続中 = 進行中であることから、完了進行形を使うのが一般的。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "完了形の継続用法では、継続中 = 進行中であることから、完了進行形を使うのが一般的。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "89a9df06-2e00-4481-98ec-f1d59276befb",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "have been working",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "have been working",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " at this company for threee years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " at this company for threee years.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "88b6952a-a928-40f5-a9af-c403af8728a2",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私はこの会社で3年間働いている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私はこの会社で3年間働いている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "c0237677-c6f4-442e-b626-93f94a610c3c",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "has been raining ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "has been raining ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "since this morning.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "since this morning.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "18e6f906-c8a8-4cbc-8549-0040c501ac95",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "今朝からずっと雨が降り続いている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "今朝からずっと雨が降り続いている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "c0292143-9471-4973-9ee2-0c2d70c85c2b",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ただし、継続用法であっても、進行形にしない動詞の場合は、通常の完了形を使う。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ただし、継続用法であっても、進行形にしない動詞の場合は、通常の完了形を使う。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "11ee7bb7-56ef-428d-8cf6-7da1880d7362",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "have lived ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "have lived ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "in Tokyo for ten years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in Tokyo for ten years.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "26346dfd-df3f-4256-84bd-d635495f776e",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私は10年前から東京で暮らしている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私は10年前から東京で暮らしている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "612196f8-c038-43a9-96ee-a04763525af3",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "have known",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "have known",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " each other since college.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " each other since college.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3c10be50-e01a-4ad2-bb1e-c670eba5e401",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私たちは大学生の頃からの知り合いだ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私たちは大学生の頃からの知り合いだ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "a1b84149-1cbc-41a3-b69b-9424f5b2a680",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形にはしない動詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形にはしない動詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "ebde149e-fb03-412c-b7d9-82762cfd4579",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形は「〜している最中でまだ終わっていない」というニュアンスがある。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形は「〜している最中でまだ終わっていない」というニュアンスがある。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "91ce53e4-aa31-47d3-8697-0a2505efc612",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "そのため、「終わっていない」と言えるもの、つまり",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "そのため、「終わっていない」と言えるもの、つまり",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "必ずその終わりがある",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "必ずその終わりがある",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ものにしか使用しない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ものにしか使用しない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "778d2e4b-9fdb-415f-958c-b1e3bc2ca052",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "やめようと思ってもすぐには終えられない",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "やめようと思ってもすぐには終えられない",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ものは、通常、",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ものは、通常、",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形にはしない",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形にはしない",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "動詞となる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "動詞となる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "48dc0ee1-a774-4549-8f19-bbeab21d3611",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "状態動詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "状態動詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "6626f96e-0d32-4e81-8793-09754c3b2705",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "状態は簡単に変えられるものではないため、resemble（似ている）、belong to（所属している）、live（住んでいる）などの動詞は進行形にしない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "状態は簡単に変えられるものではないため、resemble（似ている）、belong to（所属している）、live（住んでいる）などの動詞は進行形にしない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "dde830d4-3cb9-452d-8cbb-f6d820ba8fd1",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "resembles",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "resembles",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " her sister.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " her sister.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "bcbe26a6-d488-4e54-a7c8-8a4111ce5332",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女は姉に似ている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女は姉に似ている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "cdf0c1cd-e860-4cc4-bf4c-3eff2de5c749",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "心理を表す動詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "心理を表す動詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "0db85574-dfa5-4c13-95e1-1af8e83f4747",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "心理は終わりがはっきりと見えるものではないため、love、know、believe などの動詞は進行形にしない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "心理は終わりがはっきりと見えるものではないため、love、know、believe などの動詞は進行形にしない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "44a646c5-0ee0-4f83-8c4f-b08d36669984",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "know",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "know",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " his father very well.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " his father very well.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a90738f5-537a-4540-85b0-79fb5d3c474e",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私は彼の父をとてもよく知っている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私は彼の父をとてもよく知っている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "bb1a2c27-f69f-467b-8a56-abea48dedf29",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "感覚動詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "感覚動詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "3e18b50f-61df-429c-9154-56895c9555f0",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "感覚は、やめようと思っても自らやめられるものではないため、see、hear、feel などの動詞は進行形にしない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "感覚は、やめようと思っても自らやめられるものではないため、see、hear、feel などの動詞は進行形にしない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "6d5dfb17-06dd-4360-b50b-466f7af9b830",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形にしない動詞の進行形",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形にしない動詞の進行形",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "58b23735-d196-4e8f-b9c7-e0f25e215198",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "一時的な状態",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一時的な状態",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "68630ceb-19ac-4823-b7c3-74d61acf6cd2",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形にしない動詞であっても、終わりが見えている、つまり",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形にしない動詞であっても、終わりが見えている、つまり",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "一時的な状態",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "一時的な状態",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "であることを強調したい場合は、進行形にすることがある。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "であることを強調したい場合は、進行形にすることがある。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "391ba8d6-2a87-49a3-a408-ab6ac3aacd5a",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "am living",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "am living",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " in Sapporo.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " in Sapporo.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "8b901c68-1214-46f4-9c88-c851a6a6dc7c",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私は一時的に札幌に住んでいる。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私は一時的に札幌に住んでいる。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "9f857a34-6496-40fc-a3e2-dd2e6bd7a5a9",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "is being",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "is being",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " kind.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " kind.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "2382c9f1-52e2-4e3d-ad71-46aefceec0c0",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼は一時的に親切だ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼は一時的に親切だ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "2b8a7514-e2c5-4a00-884d-9b45fcae3c78",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "変化の途中",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "変化の途中",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "ff90e8e3-05a7-4910-a415-4d80c67b804b",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "恒常的な状態には終わりがないが、今まさに変化している場合、その変化にはいずれ変化が緩やかになる区切りがある。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "恒常的な状態には終わりがないが、今まさに変化している場合、その変化にはいずれ変化が緩やかになる区切りがある。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "9936c942-99f9-4091-831f-b44d56316008",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "進行形にしない動詞であっても、進行形にすることで、変化の途中であることを表すことができる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "進行形にしない動詞であっても、進行形にすることで、変化の途中であることを表すことができる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "3b9568ac-fa2a-4627-a313-0f9ae755ee96",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "is resembling",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "is resembling",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " her sister more and more.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " her sister more and more.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "41109a35-1cb3-400f-afa3-296f0895929f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女はますます姉に似てきている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女はますます姉に似てきている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "ca016344-8772-4f41-904c-4045bf38c2fb",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "m loving",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "m loving",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " it.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " it.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3142e1b9-3b0a-4911-b0a3-897eaa2e7287",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "今それにハマっている。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "今それにハマっている。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "d6ea4a06-022d-4b7f-b4bd-fe7f0af04596",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「今ハマっている」は、すぐに飽きてしまうことまで示唆しているわけではない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「今ハマっている」は、すぐに飽きてしまうことまで示唆しているわけではない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "52db177a-e0a8-4f54-99ae-b7d174627744",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "今まさに熱中度が増している、という変化の途中であることを表している。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "今まさに熱中度が増している、という変化の途中であることを表している。",
             "href": null
           }
         ],
