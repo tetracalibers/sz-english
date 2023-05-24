@@ -1,7 +1,7 @@
 {
   "title": "交渉",
   "id": "9990688c-c33d-4339-97c2-2d6a5ee28fa1",
-  "last_edited_time": "2023-05-23T21:55:00.000Z",
+  "last_edited_time": "2023-05-24T11:50:00.000Z",
   "path": [
     "6 - 29"
   ],
@@ -887,7 +887,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "How come",
+                    "content": "How come you don’t know ?",
                     "link": null
                   },
                   "annotations": {
@@ -898,24 +898,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "How come",
-                  "href": null
-                },
-                {
-                  "type": "text",
-                  "text": {
-                    "content": " you don’t know ?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": " you don’t know ?",
+                  "plain_text": "How come you don’t know ?",
                   "href": null
                 }
               ],
@@ -1083,6 +1066,111 @@
       }
     },
     {
+      "type": "paragraph",
+      "id": "0d5d5cf0-801d-4ae5-b535-9f2b9165f307",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "甘栗は、百目鬼がなぜ知らないのか、を知りたいわけではない。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "甘栗は、百目鬼がなぜ知らないのか、を知りたいわけではない。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "3e21d5a1-88ee-4b21-a8a2-aedbd3674757",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「知らないはずないよね？なんかあったの？」という追求をしている。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「知らないはずないよね？なんかあったの？」という追求をしている。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "edb11565-40c4-46b1-915a-1281da033bdf",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "why と how come の違い",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "why と how come の違い",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "a7de1d0e-f4e7-443b-a94b-28fd82a3ecc7",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "why は純粋に理由を尋ねているが、how come は想定外のことに驚き、むしろそこへ至った原因や経緯を知りたいというニュアンスが含まれる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "why は純粋に理由を尋ねているが、how come は想定外のことに驚き、むしろそこへ至った原因や経緯を知りたいというニュアンスが含まれる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
       "type": "divider",
       "id": "15372030-1714-4109-848d-fb84efe1801d",
       "divider": {}
@@ -1126,7 +1214,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "Now, why would he leave such a useful soldier ",
+                    "content": "Now, why would he leave such a useful soldier behind ?",
                     "link": null
                   },
                   "annotations": {
@@ -1137,41 +1225,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "Now, why would he leave such a useful soldier ",
-                  "href": null
-                },
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "behind",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "behind",
-                  "href": null
-                },
-                {
-                  "type": "text",
-                  "text": {
-                    "content": " ?",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": " ?",
+                  "plain_text": "Now, why would he leave such a useful soldier behind ?",
                   "href": null
                 }
               ],
@@ -1329,6 +1383,52 @@
                       "color": "default"
                     },
                     "plain_text": "一体何でまた～なのか、どこをどうしたら～になるのか",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "77108571-0411-4abc-83cf-299b5e8f6717",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "leave someone behind",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "leave someone behind",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "（人）を置き去り［置いてきぼり］にする、（人）を連れていかない",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "（人）を置き去り［置いてきぼり］にする、（人）を連れていかない",
                     "href": null
                   }
                 ]
@@ -6521,7 +6621,7 @@
           {
             "type": "text",
             "text": {
-              "content": "I’d",
+              "content": "I’d do it for kicks if it meant I’d get to enjoy myself by killing a guy or two, and make a little bit of money at the same time.",
               "link": null
             },
             "annotations": {
@@ -6532,92 +6632,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "I’d",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " do it for kicks",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " do it for kicks",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " it it ",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " it it ",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": "meant ",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "meant ",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": "I’d",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "I’d",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " get to enjoy myself by killing a guy or two, and make a little bit of money at the same time.",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " get to enjoy myself by killing a guy or two, and make a little bit of money at the same time.",
+            "plain_text": "I’d do it for kicks if it meant I’d get to enjoy myself by killing a guy or two, and make a little bit of money at the same time.",
             "href": null
           }
         ],
@@ -6904,7 +6919,7 @@
                   {
                     "type": "text",
                     "text": {
-                      "content": "重要性を持つ",
+                      "content": "〔主語の結果として～に〕なる",
                       "link": null
                     },
                     "annotations": {
@@ -6915,7 +6930,7 @@
                       "code": false,
                       "color": "default"
                     },
-                    "plain_text": "重要性を持つ",
+                    "plain_text": "〔主語の結果として～に〕なる",
                     "href": null
                   }
                 ]
@@ -7018,6 +7033,2344 @@
       }
     },
     {
+      "type": "paragraph",
+      "id": "9c0b6bc4-ed6c-4721-9dae-8e6f278f6ce8",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ここでの I’d は、どちらも I would の略。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ここでの I’d は、どちらも I would の略。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "quote",
+      "id": "fe1e0604-4093-4771-a802-efe45c2f8672",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’d do it for kicks",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’d do it for kicks",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "5ce40372-4dd6-4293-becf-1eb14a19abce",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "スリルを求めてやっても良かったかもね、理由はないけど楽しいからやってもいいよ、の意。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "スリルを求めてやっても良かったかもね、理由はないけど楽しいからやってもいいよ、の意。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "89901b0a-4c5c-419a-9b09-d006c883b27a",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "未来の行動を表すため will を使うが、曖昧さを表現するために would を使う。（仮定法の目印は助動詞の過去形）",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "未来の行動を表すため will を使うが、曖昧さを表現するために would を使う。（仮定法の目印は助動詞の過去形）",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "5014580a-4fd8-4f0e-bc75-131a71fd5e13",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "可能性・推量の助動詞の確信度",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "可能性・推量の助動詞の確信度",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "4990d720-14bc-423d-bfeb-88fc4147ef93",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "be は 100%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "be は 100%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b2b5a904-b90f-4062-94f9-591652376fa4",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜だ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜だ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "c6168e58-1623-4e4d-af98-d8f859fa41a1",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "is",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "is",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "937af5fc-44d7-4cee-8794-c00c31514b72",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫だ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫だ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "18a27836-a652-4268-b6d2-82b01c2c3fc2",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "must は 99%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "must は 99%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b45da032-97e5-4b57-ae52-4eaf5b9daad5",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜に違いない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜に違いない",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "903edcf3-6a21-42e6-8234-7ed5fc985f01",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "mush",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "mush",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "373f8155-d28b-4fa1-aad0-ed8429c48d8d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫に違いない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫に違いない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "0ec53e7d-42bc-4426-9706-44360925642a",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "must",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "must",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be his mother.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be his mother.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "eda94fb7-dac7-409f-a9e5-f234c218b25d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女は彼の母親に違いない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女は彼の母親に違いない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "17fb5483-17e6-41a3-9995-72d242731340",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "will / would は 90%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "will / would は 90%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "278b5c05-348b-4961-ab84-0b51de6b6846",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜だろう",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜だろう",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "f06ecbc3-2273-4dbe-b4a8-fb3c269bece8",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "未来にVするだろう、という表現に使われるwill。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "未来にVするだろう、という表現に使われるwill。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "5540c607-83a7-4935-856c-3a0f0cf34f55",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "その時が来れば確実にVするというイメージから、「〜だろう」という高めの確信度を表す際にも使われる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "その時が来れば確実にVするというイメージから、「〜だろう」という高めの確信度を表す際にも使われる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "6ce7b9d8-9d30-49f5-b6ab-26709122cef7",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "will",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "will",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "bf3b2c49-ba6e-42f5-b420-4bc1f112d718",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫だろう。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫だろう。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "da72f720-3c53-4370-8f8f-ed4499fb7606",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "will",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "will",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be busy now.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be busy now.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "0201daf3-a6bd-4e00-9d5a-cfdffdf2d467",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼は今、忙しいだろう。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼は今、忙しいだろう。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "d17cb394-8ece-445e-a737-bc7b7bf06f69",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "would",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "would",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be about to go out right now.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be about to go out right now.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "087f86a2-8e7a-4e9a-8d5c-c8ef7d52638e",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼は今、出かけようとしているのではないか。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼は今、出かけようとしているのではないか。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "f140e839-ed69-44e9-bb67-472e841e1151",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "should は70%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "should は70%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "78363ddc-0e81-4fa1-a704-8af85c434cb2",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "当然〜のはずだ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "当然〜のはずだ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "d0ff572a-dbab-4fab-a2ae-3f887bad2ebf",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "should",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "should",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "69c928de-1cc4-4127-b7eb-357048aeec95",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫のはずだ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫のはずだ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "7168ec15-04d5-4415-b2e7-3f026112da2b",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "should",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "should",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " arrive at the park in half an hour.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " arrive at the park in half an hour.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c715b495-8e1b-4f5a-b8f3-c4fc7b7056ac",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼はあと30分で公園に着くはずだ。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼はあと30分で公園に着くはずだ。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "cc6b784b-1cef-4f7d-b029-6a2f0db482d1",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "can は 60%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "can は 60%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "00a32abc-977e-4067-9c29-4c344ccf596b",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜のはずだ、〜の可能性がある",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜のはずだ、〜の可能性がある",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "6888b336-b901-45d8-939a-566c261e24dd",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vできる",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vできる",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "、ということは、",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "、ということは、",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Vする可能性がある",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vする可能性がある",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "、ということである。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "、ということである。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "e15cbcdf-be97-43a0-a311-424386ef4e26",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "can",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "can",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " tell a lie.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " tell a lie.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "541d7558-608a-44f9-8507-b81af97f0495",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼は嘘をつく可能性がある。（彼は嘘をつける人だ）",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼は嘘をつく可能性がある。（彼は嘘をつける人だ）",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "912d549d-c106-4a8b-834c-98fbf15adf05",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "may は 50%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "may は 50%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "3d8440bd-32dd-4a02-8390-21b8ef35652f",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜かもしれない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜かもしれない",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "11df1f75-ee40-42a6-8cd2-7772d34d0275",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "may",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "may",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c48ebd34-6f24-4191-840e-deb14d655dbb",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫かもしれない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫かもしれない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "b29680d3-e1de-49a9-a738-969e60a860e0",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "may",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "may",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " tell a lie.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " tell a lie.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4c176acd-911a-4104-831a-124aba0ed743",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼は嘘をつくかもしれない",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼は嘘をつくかもしれない",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "14de8d61-81ca-4676-ba0d-488b565944a2",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "might は 30%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "might は 30%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "87e243d0-99fa-4bb6-abba-271ff4a31429",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ひょっとしたら〜かもしれない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ひょっとしたら〜かもしれない",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "4bcef155-9dd7-4811-89ba-820019984a32",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "might",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "might",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "af302748-65a5-465d-b8a9-195462961def",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "もしかすると猫かもしれない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "もしかすると猫かもしれない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "539fdbd2-ba66-4e95-a36b-7d163de01298",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "might",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "might",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be spending a few weeks in Australia this summer.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be spending a few weeks in Australia this summer.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "0f4a6bed-c17e-4835-be9f-e6ab79ae3a5d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "この夏の2~3週間はオーストラリアで過ごすかもしれない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "この夏の2~3週間はオーストラリアで過ごすかもしれない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "1d6a2282-70bb-4221-94f6-0e7d51d43d6a",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "could は 20%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "could は 20%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "3a311046-aaee-45d7-9526-c84e9cc62453",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ひょっとすると〜かもしれない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ひょっとすると〜かもしれない",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "cb3e88a2-a3df-4873-9b30-92402235b668",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "could",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "could",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " be the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " be the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a7dd74e9-b721-4b59-a38b-60fd503bfca7",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ひょっとして猫かもしれない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ひょっとして猫かもしれない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "fe32f4a3-8359-434e-8b69-60e453cca3ca",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "He ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "He ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "could",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "could",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " tell a lie.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " tell a lie.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "521b21f2-a3ca-4d4a-aade-6facc5715564",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼はひょっとしたら嘘をつくかもしれない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼はひょっとしたら嘘をつくかもしれない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "917e9834-a833-493c-aa07-6c19689871c8",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "not は 0%",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "not は 0%",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "a9ef8ccb-9ab1-45f6-9c17-a941d78393de",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "〜ではない",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "〜ではない",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "cc76393b-4012-4c37-a62e-08c8a86caf68",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "That ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "That ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "is not",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "is not",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the cat.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the cat.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "09c03712-f0a3-40ec-b980-9550b59bf0c6",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "猫ではない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "猫ではない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "4ca03c5b-308a-4617-9d7a-74f885477326",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "仮定法の would",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "仮定法の would",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "8e853f89-b4a3-4416-aeea-362b20aa32f0",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "will を使うと「やります」になってしまうが、would を使うことにより、「やるかもね」という曖昧さが加わる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "will を使うと「やります」になってしまうが、would を使うことにより、「やるかもね」という曖昧さが加わる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "57291dfc-5dcc-45d3-91af-5750907cb686",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "それゆえ、would は「〜ならVしただろうな」という仮定法で使われることもある。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "それゆえ、would は「〜ならVしただろうな」という仮定法で使われることもある。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "d2951fed-83cc-4cbb-b7cb-3f609c4c1000",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "条件さえ揃えばVしたかも、という確率を表す。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "条件さえ揃えばVしたかも、という確率を表す。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "969d87ca-6209-4d5f-a1be-6e30724ec2e3",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "would",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "would",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " help you if I could.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " help you if I could.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4d4f67a9-18db-4877-a2f7-672a7b7eef0a",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "できることならお助けするのですが。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "できることならお助けするのですが。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "divider",
       "id": "614ac897-c3a8-40ad-b56c-38522ba56d8f",
       "divider": {}
@@ -7030,7 +9383,7 @@
           {
             "type": "text",
             "text": {
-              "content": "But, other than that, I don’t see what’s so great about being a tool for some yakuza",
+              "content": "But, other than that, I don’t see what’s so great about being a tool for some yakuza fag …",
               "link": null
             },
             "annotations": {
@@ -7041,41 +9394,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "But, other than that, I don’t see what’s so great about being a tool for some yakuza",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " fag",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " fag",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": " …",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": " …",
+            "plain_text": "But, other than that, I don’t see what’s so great about being a tool for some yakuza fag …",
             "href": null
           }
         ],
@@ -7137,6 +9456,63 @@
                 }
               ],
               "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "f0754ae5-a4b7-48fc-a24a-c3ddb361f977",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "e54ae99a-db3c-49d5-8a09-521901d2e676",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "fag",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "fag",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈侮蔑的〉おかま",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈侮蔑的〉おかま",
+                    "href": null
+                  }
+                ]
+              ]
             }
           }
         ]
