@@ -6,7 +6,7 @@ import { generateTocMap } from "./toc.js"
 const update = async () => {
   const pages = await updatePagesMap()
   await updatePageContent(pages)
-  await updateSyncDateMap()
+  await updateSyncDateMap(pages)
   await generateTocMap()
 }
 

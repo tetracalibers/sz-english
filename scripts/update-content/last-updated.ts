@@ -1,7 +1,6 @@
 import { printFileUpdatedLog } from "./log.js"
 import { PageTree } from "./page.js"
 import fs from "node:fs/promises"
-import tree from "../../meta/pages.json" assert { type: "json" }
 
 const buildLastUpdatedMap = (tree: PageTree[], dist = new Map<string, string>()) => {
   tree.forEach((page) => {
@@ -11,8 +10,8 @@ const buildLastUpdatedMap = (tree: PageTree[], dist = new Map<string, string>())
   return Object.fromEntries(dist)
 }
 
-export const updateSyncDateMap = async () => {
-  const lastUpdatedMap = buildLastUpdatedMap(tree)
+export const updateSyncDateMap = async (pages: PageTree[]) => {
+  const lastUpdatedMap = buildLastUpdatedMap(pages)
   await fs.writeFile("meta/last-updated.json", JSON.stringify(lastUpdatedMap, null, 2))
   printFileUpdatedLog("meta/last-updated.json")
 }
