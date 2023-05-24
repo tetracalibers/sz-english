@@ -53,13 +53,18 @@ interface Props {
   blocks: Record<string, unknown>[]
 }
 
-const { slug, prev, next, blocks } = Astro.props
+const { slug, prev, next, blocks, title } = Astro.props
+
+const section = slug.split("/").slice(0, -1).join("/")
 ---
 
 <BaseHtml>
   <Sprite.Provider>
     <div class="header">
-      <h1>{slug}</h1>
+      <h1 class="heading">
+        <span class="heading-section">{section}</span>
+        <span class="heading-title">{title}</span>
+      </h1>
       <PrevNextLink prev={prev} next={next} />
     </div>
     <div class="blocks">
@@ -103,10 +108,21 @@ const { slug, prev, next, blocks } = Astro.props
     margin-bottom: 3rem;
   }
 
-  h1 {
-    text-align: center;
+  .heading {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 0.5rem;
     font-size: 2.5rem;
     margin: 0;
     font-weight: 500;
+  }
+
+  .heading-section {
+    font-family: var(--num-font);
+  }
+
+  .heading-title {
+    font-size: 0.6em;
   }
 </style>
