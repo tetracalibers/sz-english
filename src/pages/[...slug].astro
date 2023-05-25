@@ -22,6 +22,10 @@ import PrevNextLink from "@/components/ui/prev-next-link.astro"
 import { pager, toSlug } from "@/lib/ui/slug"
 import { Sprite } from "astro-icon"
 
+const splitWords = (camelCase: string) => {
+  return camelCase.split(/(^[a-z]+)|([A-Z][a-z]+)/).filter(Boolean)
+}
+
 export async function getStaticPaths() {
   const modules = import.meta.glob("/data/**/*.json")
   const entries = Object.entries(modules)
@@ -55,54 +59,78 @@ interface Props {
 
 const { slug, prev, next, blocks, title } = Astro.props
 
-const section = slug.split("/").slice(0, -1).join("/")
+const sections = slug.split("/").slice(0, -1)[0].split("-").reverse()
+const sectionTitle = splitWords(sections.at(0)).join(" ")
+const sectionNo = sections.at(1)
 ---
 
 <BaseHtml>
-  <Sprite.Provider>
-    <div class="header">
-      <h1 class="heading">
-        <span class="heading-section">{section}</span>
-        <span class="heading-title">{title}</span>
-      </h1>
-      <PrevNextLink prev={prev} next={next} place="top" />
-    </div>
-    <div class="blocks">
-      {
-        blocks.map((block) => {
-          if (isCallout(block)) {
-            return <CalloutPhrase content={block.callout} client:visible />
-          } else if (isJaToggle(block)) {
-            return <JaToggle content={block.toggle.children} />
-          } else if (isParagraph(block)) {
-            return <Paragraph content={block.paragraph} />
-          } else if (isHeading2(block)) {
-            return <Heading2 id={block.id} content={block.heading_2} />
-          } else if (isToggle(block)) {
-            return <TogglePhrase content={block.toggle} client:visible />
-          } else if (isQuote(block)) {
-            return <Quote content={block.quote} />
-          } else if (isHeading3(block)) {
-            return <Heading3 content={block.heading_3} />
-          } else if (isTable(block)) {
-            return <Table content={block.table} client:visible />
-          }
-        })
-      }
-    </div>
-    <PrevNextLink prev={prev} next={next} place="bottom" />
-  </Sprite.Provider>
+  <div class="root">
+    <Sprite.Provider>
+      <div class="header">
+        <h1 class="heading">
+          <span class="section -title">{sectionTitle}</span>
+          <span class="title-group">
+            {sectionNo && <span class="section">{sectionNo}</span>}
+            <span class="title">{title}</span>
+          </span>
+        </h1>
+        <PrevNextLink prev={prev} next={next} />
+      </div>
+      <div class="blocks">
+        {
+          blocks.map((block) => {
+            if (isCallout(block)) {
+              return <CalloutPhrase content={block.callout} client:visible />
+            } else if (isJaToggle(block)) {
+              return <JaToggle content={block.toggle.children} />
+            } else if (isParagraph(block)) {
+              return <Paragraph content={block.paragraph} />
+            } else if (isHeading2(block)) {
+              return <Heading2 id={block.id} content={block.heading_2} />
+            } else if (isToggle(block)) {
+              return <TogglePhrase content={block.toggle} client:visible />
+            } else if (isQuote(block)) {
+              return <Quote content={block.quote} />
+            } else if (isHeading3(block)) {
+              return <Heading3 content={block.heading_3} />
+            } else if (isTable(block)) {
+              return <Table content={block.table} client:visible />
+            }
+          })
+        }
+      </div>
+      <div class="footer"><PrevNextLink prev={prev} next={next} /></div>
+    </Sprite.Provider>
+  </div>
 </BaseHtml>
 
 <style>
+  .root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding: 1rem;
+  }
+
   .header {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
     margin: -1rem;
-    padding: 1rem;
+    padding: 1rem 1rem 1.5rem;
     background: #eeeeee;
     background-image: linear-gradient(to bottom, #f9f9f9, rgba(255, 255, 255, 0));
+  }
+
+  .footer {
+    padding: 1.5rem 1rem;
+    margin: -1rem;
+    background: #eeeeee;
+    background-image: linear-gradient(to top, #f9f9f9, rgba(255, 255, 255, 0));
   }
 
   .blocks {
@@ -114,7 +142,17 @@ const section = slug.split("/").slice(0, -1).join("/")
 
   .heading {
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5rem;
+    margin: 0;
+    font-weight: 500;
+  }
+
+  .title-group {
+    display: flex;
+    align-items: baseline;
     justify-content: center;
     gap: 0.5rem;
     font-size: 2.5rem;
@@ -122,11 +160,16 @@ const section = slug.split("/").slice(0, -1).join("/")
     font-weight: 500;
   }
 
-  .heading-section {
+  .section {
     font-family: var(--num-font);
   }
 
-  .heading-title {
+  .section.-title {
+    font-size: 0.5em;
+    opacity: 0.8;
+  }
+
+  .title {
     font-size: 0.6em;
   }
 </style>

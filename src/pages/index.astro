@@ -4,6 +4,10 @@ import { toSectionSlugs } from "@/lib/ui/slug"
 import { glob } from "glob"
 import toc from "~/meta/toc.json" assert { type: "json" }
 
+const splitWords = (camelCase: string) => {
+  return camelCase.split(/(^[a-z]+)|([A-Z][a-z]+)/).filter(Boolean)
+}
+
 const pages = (await glob("data/**/*.json")).sort()
 const sections = toSectionSlugs(pages)
 ---
@@ -16,11 +20,17 @@ const sections = toSectionSlugs(pages)
       <h2>Story</h2>
       <ul>
         {
-          sections.map((section) => (
-            <li>
-              <a href={section.first}>{section.name}</a>
-            </li>
-          ))
+          sections.map((section) => {
+            const [_title, num] = section.name.split("-").reverse()
+            const title = splitWords(_title).join(" ")
+            return (
+              <li>
+                <a href={section.first}>
+                  {title} - {num}
+                </a>
+              </li>
+            )
+          })
         }
       </ul>
     </section>
@@ -45,6 +55,7 @@ const sections = toSectionSlugs(pages)
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    padding: 1rem 1rem 2rem;
   }
 
   h1 {

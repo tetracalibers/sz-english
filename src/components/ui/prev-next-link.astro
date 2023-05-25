@@ -5,13 +5,12 @@ import { Icon, Sprite } from "astro-icon"
 interface Props {
   prev: string | null
   next: string | null
-  place: "top" | "bottom"
 }
 
-const { prev, next, place } = Astro.props
+const { prev, next } = Astro.props
 ---
 
-<div class:list={["link-group", `--${place}`]}>
+<div class="link-group">
   {
     prev && (
       <a href={prev} class="prev">
@@ -37,14 +36,9 @@ const { prev, next, place } = Astro.props
   .link-group {
     display: flex;
     justify-content: space-between;
-    padding: 1rem;
+    padding-inline: 1rem;
     position: relative;
     margin-inline: -1rem;
-  }
-
-  .link-group.--bottom {
-    background: #eeeeee;
-    background-image: linear-gradient(to top, #f9f9f9, rgba(255, 255, 255, 0));
   }
 
   .prev {
