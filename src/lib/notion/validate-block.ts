@@ -22,8 +22,9 @@ export const isToggle = (block: AnyBlock): block is ToggleBlockObjectResponse =>
 
 export const isJaToggle = (block: AnyBlock): block is ToggleBlockObjectResponse => {
   if (!isToggle(block)) return false
-  const summary = block.toggle.rich_text[0].plain_text.trim()
-  return summary.toLowerCase() === "in Japanese".toLowerCase()
+  const summary = block.toggle.rich_text[0].plain_text.trim().toLowerCase()
+  const marker = ["in Japanese".toLowerCase(), "ja"]
+  return marker.some((mark) => mark === summary)
 }
 
 export const isQuote = (block: AnyBlock): block is QuoteBlockObjectResponse => {
