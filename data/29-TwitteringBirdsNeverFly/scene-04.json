@@ -1,9 +1,9 @@
 {
   "title": "会議",
   "id": "2972a344-ff94-41f2-9877-b105161b773e",
-  "last_edited_time": "2023-05-24T12:35:00.000Z",
+  "last_edited_time": "2023-05-25T11:18:00.000Z",
   "path": [
-    "6 - 29"
+    "29 - Twittering Birds Never Fly"
   ],
   "blocks": [
     {
@@ -6642,6 +6642,52 @@
                 ]
               ]
             }
+          },
+          {
+            "type": "table_row",
+            "id": "ee9b12ed-7860-4086-9f8c-920aca74e199",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "amount of ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "amount of ",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～の量［金額］",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～の量［金額］",
+                    "href": null
+                  }
+                ]
+              ]
+            }
           }
         ]
       }
@@ -8347,13 +8393,13 @@
     },
     {
       "type": "heading_2",
-      "id": "6e7759b1-3011-4eec-9a4a-2056b81a54b2",
+      "id": "b6dd7fd3-9910-41cc-ad2e-7dc4ef0fbe29",
       "heading_2": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "量で捉える名詞は数えない",
+              "content": "全部ひとまとめで考える名詞は数えない",
               "link": null
             },
             "annotations": {
@@ -8364,7 +8410,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "量で捉える名詞は数えない",
+            "plain_text": "全部ひとまとめで考える名詞は数えない",
             "href": null
           }
         ],
@@ -8374,13 +8420,13 @@
     },
     {
       "type": "paragraph",
-      "id": "b6dd7fd3-9910-41cc-ad2e-7dc4ef0fbe29",
+      "id": "def27ea6-8a28-4792-80db-453f4ba1a3e2",
       "paragraph": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "WIP",
+              "content": "money（お金）は coin（硬貨）や bill（紙幣）をすべてひっくるめた「お金全部」を表すため、1つ、2つと数えるのではなく、",
               "link": null
             },
             "annotations": {
@@ -8391,7 +8437,338 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "WIP",
+            "plain_text": "money（お金）は coin（硬貨）や bill（紙幣）をすべてひっくるめた「お金全部」を表すため、1つ、2つと数えるのではなく、",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "全部でどれくらいあるか",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "全部でどれくらいあるか",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "と量で考える不可算名詞になる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "と量で考える不可算名詞になる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "392db1df-d5a9-492d-8bcd-0e9e0277d59e",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I have to exchange ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I have to exchange ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "money",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "green"
+            },
+            "plain_text": "money",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " when I arrive at the airport.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " when I arrive at the airport.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a1d9c72f-0090-4bc5-b3f7-59c0d569f164",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "空港に着いたら、両替しなければならない。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "空港に着いたら、両替しなければならない。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "956fdee0-ec5d-4c3c-98f8-7235785babe3",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "furniture（家具）は desk（机）や chair（椅子）などを引っくるめた「家具全部」を表すため、不可算名詞になる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "furniture（家具）は desk（机）や chair（椅子）などを引っくるめた「家具全部」を表すため、不可算名詞になる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "b542477d-e7e0-409d-a5b8-b9c1a006a4c1",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There is ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There is ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "much",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "much",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " furniture",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "pink"
+            },
+            "plain_text": " furniture",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " in my room.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " in my room.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "b30edfc8-1a51-4b3e-a820-abea17498155",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私の部屋には家具がたくさんある。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私の部屋には家具がたくさんある。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "13cf21f4-19e4-4b11-bc21-916a6db10f45",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "baggage（荷物）は、bag（鞄）や suitcase（スーツケース）などをひとまとめにした「荷物全部」を表すため、不可算名詞。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "baggage（荷物）は、bag（鞄）や suitcase（スーツケース）などをひとまとめにした「荷物全部」を表すため、不可算名詞。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "f4c32cdb-5849-472b-95b6-097fba1bc82d",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "equipment（設備）は、light（電気）や bathroom（トイレ）などをひとまとめにした「設備全部」を表すため、不可算名詞。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "equipment（設備）は、light（電気）や bathroom（トイレ）などをひとまとめにした「設備全部」を表すため、不可算名詞。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "801c9b27-4982-4a99-bf08-afb5c53993da",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "machinery（機械）は、drill（ドリル）や screwdriver（ドライバー）などをひとまとめにした「機械全部」を表すため、不可算名詞。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "machinery（機械）は、drill（ドリル）や screwdriver（ドライバー）などをひとまとめにした「機械全部」を表すため、不可算名詞。",
             "href": null
           }
         ],
@@ -8518,14 +8895,255 @@
       }
     },
     {
-      "type": "paragraph",
-      "id": "9172af84-29ea-4a9b-980b-c1837d830364",
-      "paragraph": {
+      "type": "table",
+      "id": "3c25dca9-d745-4a62-84e0-52aae172da42",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "3ebcad0b-a5b7-4bd8-b21e-80cbae20d661",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "possible",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "possible",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "可能性がある、起こり得る、あり得る",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "可能性がある、起こり得る、あり得る",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "32ab6120-bedd-4db6-85ba-827deb267e8b",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "behind",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "behind",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～の陰で（動いて）、～は〔主語〕のしわざで",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～の陰で（動いて）、～は〔主語〕のしわざで",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "059ffcb8-2ca5-4185-87a7-981c6238f199",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "trafficking",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "trafficking",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "不正［不法］取引、密売",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "不正［不法］取引、密売",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "aecd9ebb-6712-4b49-b93f-34e146dedd8a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "all along",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "all along",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈話〉最初［初め］からずっと",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈話〉最初［初め］からずっと",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "1a66dfe5-c3d5-4829-a36b-9607c6dae60a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "errand boy",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "errand boy",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "使い走り",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "使い走り",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "quote",
+      "id": "10393b9a-7ed6-4e00-8b12-399c7db44e3d",
+      "quote": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "WIP",
+              "content": "the Shinsei-kai were the ones ",
               "link": null
             },
             "annotations": {
@@ -8536,7 +9154,93 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "WIP",
+            "plain_text": "the Shinsei-kai were the ones ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "who is",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "who is",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " behind the drug trafficking all along",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " behind the drug trafficking all along",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "fe721d26-2921-4037-a850-5b57a5c8bcf3",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": ">  初めから、ドラッグ密売は真誠会のしわざだった",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ">  初めから、ドラッグ密売は真誠会のしわざだった",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "00b51448-4113-4c4f-b0c1-bdb5bc8e6dbb",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "関係代名詞が主格で、その次にbe動詞などが続く場合、関係代名詞とbe動詞を共に省略することができる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "関係代名詞が主格で、その次にbe動詞などが続く場合、関係代名詞とbe動詞を共に省略することができる。",
             "href": null
           }
         ],
@@ -8663,35 +9367,199 @@
       }
     },
     {
-      "type": "paragraph",
-      "id": "0c5e03a4-6379-47eb-85c0-b98e7587eb4c",
-      "paragraph": {
-        "rich_text": [
+      "type": "table",
+      "id": "486aaf33-aae3-4548-869c-f17e4342c616",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
           {
-            "type": "text",
-            "text": {
-              "content": "WIP",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "WIP",
-            "href": null
+            "type": "table_row",
+            "id": "d76cd915-e90d-4c95-9f73-215721407887",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "son of a bitch",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "son of a bitch",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈俗〉えい、くそっ、畜生",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈俗〉えい、くそっ、畜生",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "95b06ba5-f30d-43b4-b995-f70742429808",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "try",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "try",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "やってみる、試みる、企てる",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "やってみる、試みる、企てる",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "c3aa7d9f-5e6f-4415-9910-b451ef857969",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "be trying to",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "be trying to",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～しようとしている",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～しようとしている",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "eabd07ed-1c31-408d-86d3-2dabb2ae2400",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "accuse",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "accuse",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "非難する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "非難する",
+                    "href": null
+                  }
+                ]
+              ]
+            }
           }
-        ],
-        "color": "default"
+        ]
       }
-    },
-    {
-      "type": "divider",
-      "id": "4d92a5fe-a3c2-478b-a4c9-31e78f338bcc",
-      "divider": {}
     }
   ]
 }
