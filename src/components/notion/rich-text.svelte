@@ -8,6 +8,7 @@
   class={"color--" + richtext.annotations.color}
   class:bold={richtext.annotations.bold}
   class:italic={richtext.annotations.italic}
+  class:underline={richtext.annotations.underline}
 >
   {richtext.plain_text}
 </span>
@@ -43,5 +44,10 @@
 
   .italic {
     font-style: italic;
+  }
+
+  .underline {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
   }
 </style>
