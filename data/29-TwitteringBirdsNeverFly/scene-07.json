@@ -1,20 +1,20 @@
 {
   "title": "偵察",
   "id": "4c87887e-58ec-4568-8ef4-495e31f9d798",
-  "last_edited_time": "2023-05-25T12:20:00.000Z",
+  "last_edited_time": "2023-05-26T09:41:00.000Z",
   "path": [
     "29 - Twittering Birds Never Fly"
   ],
   "blocks": [
     {
-      "type": "paragraph",
-      "id": "2dd459c7-0f72-43ab-9087-fc7a64d149ed",
-      "paragraph": {
+      "type": "callout",
+      "id": "8a5bd56a-f207-4f27-b4f4-d1847fa36497",
+      "callout": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "WIP",
+              "content": "Why aren’t you cleaning up ?",
               "link": null
             },
             "annotations": {
@@ -25,11 +25,425 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "WIP",
+            "plain_text": "Why aren’t you cleaning up ?",
             "href": null
           }
         ],
-        "color": "default"
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "d2da2c97-9b14-4b00-a952-0e2243612ace",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We did clean up !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We did clean up !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "be46bb7f-bc31-4737-bccb-da095bbabfdb",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s still some leftover.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s still some leftover.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "e26072f7-db35-40ee-b4e7-dc218f9c1776",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "For instance, that ball over there.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "For instance, that ball over there.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "3b996081-fe1e-43e4-8573-ad45c4f2521f",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re such a nug !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re such a nug !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "5e88590a-2a19-4304-a217-0b54aa0ed709",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re never goona get a boyfriend !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re never goona get a boyfriend !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "e1cc0817-3e13-46bd-b31a-8738a61424b4",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’ll end up like mammy !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’ll end up like mammy !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "5d00f50e-9c8a-4c0f-a091-0ab3a749d611",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What did you say ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What did you say ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "986213b9-14fa-4263-b17e-858ae07e66c6",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s that kid doing ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s that kid doing ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "570d9073-328a-4080-b713-5554d0594f7c",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You mean Yashiro ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You mean Yashiro ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "0c978c25-b701-4e7c-be7c-15b8649a209f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "He’s out on business for Misumi.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "He’s out on business for Misumi.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "1839941b-096e-4346-a681-1cec2002e9de",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What’s the boss having him do ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What’s the boss having him do ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "48177b66-4df2-4eb1-8e36-8d46dced7dda",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I heard he’s supposed to watch some woman.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I heard he’s supposed to watch some woman.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "f5ec2e7a-f25d-4ee8-9d77-602a783e1350",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It’s probably just some odd job.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It’s probably just some odd job.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
       }
     }
   ]

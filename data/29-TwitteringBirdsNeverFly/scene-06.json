@@ -1,7 +1,7 @@
 {
   "title": "車内",
   "id": "ee6142b1-deca-4b51-805d-487ac47df407",
-  "last_edited_time": "2023-05-25T22:52:00.000Z",
+  "last_edited_time": "2023-05-26T09:25:00.000Z",
   "path": [
     "29 - Twittering Birds Never Fly"
   ],
@@ -35,35 +35,7 @@
             "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
           }
         },
-        "color": "gray_background",
-        "children": [
-          {
-            "type": "paragraph",
-            "id": "9e28611c-5ae2-4cc3-bf49-4a18d265604c",
-            "paragraph": {
-              "rich_text": [
-                {
-                  "type": "text",
-                  "text": {
-                    "content": "Learn to ease up a litttle, buddy !",
-                    "link": null
-                  },
-                  "annotations": {
-                    "bold": false,
-                    "italic": false,
-                    "strikethrough": false,
-                    "underline": false,
-                    "code": false,
-                    "color": "default"
-                  },
-                  "plain_text": "Learn to ease up a litttle, buddy !",
-                  "href": null
-                }
-              ],
-              "color": "default"
-            }
-          }
-        ]
+        "color": "gray_background"
       }
     },
     {
@@ -99,7 +71,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "いってぇ 血が止まんねぇ もちっと加減しろよニーチャン",
+                    "content": "いってぇ 血が止まんねぇ",
                     "link": null
                   },
                   "annotations": {
@@ -110,7 +82,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "いってぇ 血が止まんねぇ もちっと加減しろよニーチャン",
+                  "plain_text": "いってぇ 血が止まんねぇ",
                   "href": null
                 }
               ],
@@ -260,6 +232,241 @@
                       "color": "default"
                     },
                     "plain_text": "血が出る、出血する",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "91703f07-019d-47af-a255-d468fc8efaa3",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Learn to ease up a litttle, buddy !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Learn to ease up a litttle, buddy !",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "fa4bfb20-df25-4db9-a711-e9ff3f14f7d1",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "1c31536c-6123-4bb5-808b-737c41d474aa",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "もちっと加減しろよニーチャン",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "もちっと加減しろよニーチャン",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "9916dc2e-61c6-4f55-979d-4dc0c1510f3b",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "902b353e-1fdc-4584-b1d1-89089352c04a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "ease up",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "ease up",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔緊張・圧力・激しさ・厳しさ・痛みなど〕緩和する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔緊張・圧力・激しさ・厳しさ・痛みなど〕緩和する",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "fe040fd5-091d-4c99-8873-0b1e2cd64103",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "a little",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "a little",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "少し、ちょっと",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "少し、ちょっと",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "da3b03db-0164-436c-8d4a-ea9abcab7891",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "buddy",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "buddy",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈米話〉《呼びかけ》おい、おまえ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈米話〉《呼びかけ》おい、おまえ",
                     "href": null
                   }
                 ]
@@ -1948,7 +2155,7 @@
           {
             "type": "text",
             "text": {
-              "content": "He was still in his twenties, but had just put some group completely outta business.",
+              "content": "He was still in his twenties, but had ",
               "link": null
             },
             "annotations": {
@@ -1959,7 +2166,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "He was still in his twenties, but had just put some group completely outta business.",
+            "plain_text": "He was still in his twenties, but had ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "just",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "just",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " put some group completely outta business.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " put some group completely outta business.",
             "href": null
           }
         ],
@@ -2027,29 +2268,198 @@
       }
     },
     {
-      "type": "paragraph",
-      "id": "73cf1aab-068d-47e7-82f6-38076a9f0ba2",
-      "paragraph": {
-        "rich_text": [
+      "type": "table",
+      "id": "556ae7d7-fda0-470e-9cbb-e1259275dc7a",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
           {
-            "type": "text",
-            "text": {
-              "content": "WIP",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "WIP",
-            "href": null
+            "type": "table_row",
+            "id": "462b44bd-f2e4-4f6c-839e-497ab07d4688",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "put",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "put",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "ある状態に～を置く",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "ある状態に～を置く",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "fc13bc3e-9a03-441e-9b45-ade0d747668b",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "completely",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "completely",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "完全に、徹底的に、こてんぱんに",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "完全に、徹底的に、こてんぱんに",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "fb8bb3ba-12fd-455b-a4e4-d44fa6fff12c",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "outta",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "outta",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈主に米話〉out of",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈主に米話〉out of",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "6f7c32e5-56ad-446d-b6a5-d1d66ddb31fb",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "out of business",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "out of business",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔企業が〕倒産［廃業］して",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔企業が〕倒産［廃業］して",
+                    "href": null
+                  }
+                ]
+              ]
+            }
           }
-        ],
-        "color": "default"
+        ]
       }
     },
     {
@@ -2060,7 +2470,7 @@
           {
             "type": "text",
             "text": {
-              "content": "No one dared to go hear him …",
+              "content": "No one dared to go near him …",
               "link": null
             },
             "annotations": {
@@ -2071,7 +2481,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "No one dared to go hear him …",
+            "plain_text": "No one dared to go near him …",
             "href": null
           }
         ],
@@ -2133,6 +2543,63 @@
                 }
               ],
               "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "271a083e-bcde-419a-9a1d-f890d99253a8",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "f77f7dac-bb40-4a3c-bb8a-3ab145ea4b65",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "dare",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "dare",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "あえて［思い切って・恐れずに・平気で・大胆にも］～する、～する勇気がある",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "あえて［思い切って・恐れずに・平気で・大胆にも］～する、～する勇気がある",
+                    "href": null
+                  }
+                ]
+              ]
             }
           }
         ]
@@ -2225,6 +2692,63 @@
       }
     },
     {
+      "type": "table",
+      "id": "d273d82c-d6a5-458f-9759-1b2d32af8571",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "10b4a1f7-ded7-4d56-a191-d704c0415a16",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "come to think of it",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "come to think of it",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "そういえば",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "そういえば",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "callout",
       "id": "899e1155-4a2c-456c-8cd0-a9b88d9f7c6d",
       "callout": {
@@ -2301,6 +2825,680 @@
                     "color": "default"
                   },
                   "plain_text": "妹かなんかいたか？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "cdce7045-76af-4961-929e-006ec6a7e83c",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "dad3062e-5abe-4ddc-ad54-c23782c4cff0",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "think",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "think",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～した［している］はずだ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～した［している］はずだ",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "038aa0ff-f0d7-40fa-8876-3a31639b17ae",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「思う」guess, suppose, think, believe の確信度の違い",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「思う」guess, suppose, think, believe の確信度の違い",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "cb8188bd-cb9f-4fba-9bad-d04296ff58d3",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "上の方が憶測に近く、下に行くにつれて確信度が高くなる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "上の方が憶測に近く、下に行くにつれて確信度が高くなる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "b8851ddf-a460-4e92-bf56-a4667c24bb1a",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "guess",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "guess",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "2e3274a4-3bb5-4277-967d-1c3838258cf0",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "根拠が乏しい、もしくは根拠がないときにも使える。supposeに比べてカジュアルな表現。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "根拠が乏しい、もしくは根拠がないときにも使える。supposeに比べてカジュアルな表現。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "1c569ebf-8174-4e95-afb9-587036c7d1ef",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "guess",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "guess",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " she is hungry.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " she is hungry.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3e3ee611-5a8d-464f-b841-56d94651d14b",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女はお腹が空いているんじゃないかな。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女はお腹が空いているんじゃないかな。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "517458d5-d9d1-4bbc-a0d5-9fe0b23ef7f6",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "suppose",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "suppose",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "58f10459-7306-4b6b-a0d1-9f7ea594dbef",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「憶測する」と訳されることがある。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「憶測する」と訳されることがある。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "aa8d9db1-185a-4abc-96a3-322b731c93f7",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "suppose",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "suppose",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " she is hungry.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " she is hungry.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "6018419f-0a6b-44c4-aaab-51cc9ea0ef88",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女は多分お腹が空いていると思う。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女は多分お腹が空いていると思う。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "7090954d-49a7-473a-a028-8a5a0ddc3cac",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "think",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "think",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b8af99f2-2257-48df-a2ad-24981e71c9ef",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "日本語の「思う」に最も近い語。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "日本語の「思う」に最も近い語。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "b95dd699-8a77-4fa9-8ab0-f3c6337c2514",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "think",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "think",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " she is hungry.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " she is hungry.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "0ea8a657-f4a2-4b8d-a758-d752d745956f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女はお腹が空いていると思う。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女はお腹が空いていると思う。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "078b7538-2554-4a30-9648-ebe5a5825e63",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "believe",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "believe",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "b36ac58b-17f6-4f96-836b-ab55ffa4fc28",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「絶対にそう思う」といった強い確信を伝える語。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「絶対にそう思う」といった強い確信を伝える語。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "95cff87b-3059-4717-98ba-9f5bc3a08ec0",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "believe",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "believe",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " she is hungry.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " she is hungry.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ab5afeb4-0070-4d5b-a0dc-dfc4ab16edef",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "彼女は絶対お腹が空いていると思う。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "彼女は絶対お腹が空いていると思う。",
                   "href": null
                 }
               ],
@@ -2425,14 +3623,209 @@
       }
     },
     {
-      "type": "callout",
-      "id": "e184034c-8481-408b-aff6-742a1b83ec30",
-      "callout": {
+      "type": "table",
+      "id": "490e5db8-116a-42c2-bf47-6b55a461cdab",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "c2ac06ec-548a-4929-abad-019473e1fa19",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "he’d",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "he’d",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "he had または he would の省略形",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "he had または he would の省略形",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "cfada3a3-4230-4909-bd50-fd17d8733f14",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "throw out",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "throw out",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔不要な物を〕処分する",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔不要な物を〕処分する",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "f1c31038-48b4-4504-b072-59ed9702f5bf",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "even",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "even",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "～さえ（も）",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "～さえ（も）",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "7622d869-3248-46ee-8209-c3fc8d51e656",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "‘em",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "‘em",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "them の省略形",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "them の省略形",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "83ef6e5b-fbfe-4dca-8115-10e3f1a7860f",
+      "paragraph": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "I can’t imagine what it would be like to be in prison, and not have any letters to read.",
+              "content": "ここでの he’d は he would の略。",
               "link": null
             },
             "annotations": {
@@ -2443,7 +3836,276 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "I can’t imagine what it would be like to be in prison, and not have any letters to read.",
+            "plain_text": "ここでの he’d は he would の略。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "c1cdc9ef-7721-4151-9ecc-ca8ebf97a970",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "過去の習慣を表す would",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "過去の習慣を表す would",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "eb5a1f04-1f63-48b8-bc67-54605ad7d362",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "would は、「よく〜したものだった」という過去の習慣を振り返る際にも使われる。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "would は、「よく〜したものだった」という過去の習慣を振り返る際にも使われる。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "8c57aa94-da1c-4ede-8ef9-10b6429bcff8",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "would",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "would",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " chat for hours after dinner.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " chat for hours after dinner.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a5b5b336-3a59-48e9-b064-996c51aa1632",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "私たちは夕食の後に何時間もおしゃべりしたものだった",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "私たちは夕食の後に何時間もおしゃべりしたものだった",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "e184034c-8481-408b-aff6-742a1b83ec30",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I can’t imagine ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I can’t imagine ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "what",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "what",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " it ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " it ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "would be like to be",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "would be like to be",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " in prison, and ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " in prison, and ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "not have any letters to read",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "not have any letters to read",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
             "href": null
           }
         ],
@@ -2518,7 +4180,7 @@
           {
             "type": "text",
             "text": {
-              "content": "Oh ? You talkin’ from experience I never would have guessed.",
+              "content": "Oh ? ",
               "link": null
             },
             "annotations": {
@@ -2529,7 +4191,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "Oh ? You talkin’ from experience I never would have guessed.",
+            "plain_text": "Oh ? ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "You talkin’ from experience I never would have guessed",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You talkin’ from experience I never would have guessed",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
             "href": null
           }
         ],
@@ -2591,6 +4287,155 @@
                 }
               ],
               "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "89340abc-0c82-4d5b-901c-ecdc24115d64",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "75e2c53e-8821-4021-8e84-6739752c6820",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "talkin’",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "talkin’",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "talking",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "talking",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "f2fbfc26-fc8d-4ff6-9228-9968e68fc1ed",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "never",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "never",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "以前に［今までに］～したことがない、いまだかつて～ない",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "以前に［今までに］～したことがない、いまだかつて～ない",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "300486ab-aaa2-492b-b438-92303314cd0a",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "never would have guessed",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "never would have guessed",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "思ってもみなかった、想像だにしなかった",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "思ってもみなかった、想像だにしなかった",
+                    "href": null
+                  }
+                ]
+              ]
             }
           }
         ]
@@ -2705,6 +4550,109 @@
                 }
               ],
               "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "8e2b2b46-c8f4-4582-a2d7-e4b2230f2c25",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "be84449b-3466-4367-bdf2-92d5950ccf94",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "far away",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "far away",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "遠く離れて",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "遠く離れて",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "e8f0f613-1bc8-401f-80e3-10c935689a06",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "barely",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "barely",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "辛うじて（～する）、ほとんど～ない",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "辛うじて（～する）、ほとんど～ない",
+                    "href": null
+                  }
+                ]
+              ]
             }
           }
         ]
