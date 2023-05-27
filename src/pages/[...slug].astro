@@ -1,26 +1,9 @@
 ---
 import BaseHtml from "@/layout/base-html.astro"
-import {
-  isCallout,
-  isHeading2,
-  isHeading3,
-  isJaToggle,
-  isParagraph,
-  isQuote,
-  isToggle,
-  isTable
-} from "@/lib/notion/validate-block"
-import Paragraph from "@/components/notion/paragraph.svelte"
-import Heading2 from "@/components/notion/heading2.svelte"
-import TogglePhrase from "@/components/notion/toggle-phrase.svelte"
-import Quote from "@/components/notion/quote.svelte"
-import Heading3 from "@/components/notion/heading3.svelte"
-import Table from "@/components/notion/table.svelte"
-import CalloutPhrase from "@/components/notion/callout-phrase.svelte"
-import JaToggle from "@/components/notion/ja-toggle.svelte"
 import PrevNextLink from "@/components/ui/prev-next-link.astro"
 import { pager, toSlug } from "@/lib/ui/slug"
 import { Sprite } from "astro-icon"
+import Note from "@/components/ui/note.svelte"
 
 const splitWords = (camelCase: string) => {
   return camelCase.split(/(^[a-z]+)|([A-Z][a-z]+)/).filter(Boolean)
@@ -78,27 +61,7 @@ const sectionNo = sections.at(1)
         <PrevNextLink prev={prev} next={next} />
       </div>
       <div class="blocks">
-        {
-          blocks.map((block) => {
-            if (isCallout(block)) {
-              return <CalloutPhrase content={block.callout} client:visible />
-            } else if (isJaToggle(block)) {
-              return <JaToggle content={block.toggle.children} />
-            } else if (isParagraph(block)) {
-              return <Paragraph content={block.paragraph} />
-            } else if (isHeading2(block)) {
-              return <Heading2 id={block.id} content={block.heading_2} />
-            } else if (isToggle(block)) {
-              return <TogglePhrase content={block.toggle} client:visible />
-            } else if (isQuote(block)) {
-              return <Quote content={block.quote} />
-            } else if (isHeading3(block)) {
-              return <Heading3 content={block.heading_3} />
-            } else if (isTable(block)) {
-              return <Table content={block.table} client:visible />
-            }
-          })
-        }
+        <Note blocks={blocks} client:load />
       </div>
       <div class="footer"><PrevNextLink prev={prev} next={next} /></div>
     </Sprite.Provider>
