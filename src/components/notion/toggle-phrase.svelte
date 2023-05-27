@@ -1,10 +1,10 @@
 <script lang="ts">
   import { RichTextItemResponse, ToggleBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints"
   import RichText from "./rich-text.svelte"
-  import { Speaker } from "@/lib/speaker"
   import PlayButton from "../audio/play-button.svelte"
   import StopButton from "../audio/stop-button.svelte"
   import TriangleDownIcon from "../icons/triangle-down-icon.svelte"
+  import { GlobalSpeaker } from "@/lib/svelte-speaker"
 
   type Content = {
     rich_text: RichTextItemResponse[]
@@ -19,12 +19,13 @@
   }
 
   export let content: Content
+  export let speaker: GlobalSpeaker
 
   const en = content.rich_text
   const ja = content.children.flatMap((item) => item?.paragraph?.rich_text).filter(Boolean)
 
   const phraseList = en.map((item) => item.plain_text)
-  const speaker = new Speaker(phraseList.join(" "))
+  const play = () => speaker.speak(phraseList.join(" "))
 </script>
 
 <details>
@@ -33,7 +34,7 @@
       <TriangleDownIcon size="0.6rem" />
     </div>
     <div class="buttons">
-      <PlayButton play={speaker.speak} />
+      <PlayButton {play} />
       <StopButton stop={speaker.stop} />
     </div>
     <div>

@@ -1,10 +1,10 @@
 <script lang="ts">
   import { CalloutBlockObjectResponse, RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
-  import { Speaker } from "@/lib/speaker"
   import RichText from "./rich-text.svelte"
   import StopButton from "../audio/stop-button.svelte"
   import PlayButton from "../audio/play-button.svelte"
   import BirdIcon from "../icons/bird-icon.svelte"
+  import { GlobalSpeaker } from "@/lib/svelte-speaker"
 
   type Content = {
     rich_text: RichTextItemResponse[]
@@ -19,6 +19,7 @@
   }
 
   export let content: Content
+  export let speaker: GlobalSpeaker
 
   const children = content.children ?? []
   const childrenPhrases = children.map((item) => item.paragraph.rich_text)
@@ -26,7 +27,7 @@
   const phrases = content.rich_text.concat(childrenPhrases.flat())
 
   const phraseList = phrases.map((item) => item.plain_text)
-  const speaker = new Speaker(phraseList.join(" "))
+  const play = () => speaker.speak(phraseList.join(" "))
 </script>
 
 <div>
@@ -37,7 +38,7 @@
   </div>
   <div class="callout">
     <div class="buttons">
-      <PlayButton play={speaker.speak} />
+      <PlayButton {play} />
       <StopButton stop={speaker.stop} />
     </div>
     <div class="sentences">

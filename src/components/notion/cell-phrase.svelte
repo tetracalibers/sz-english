@@ -1,17 +1,18 @@
 <script lang="ts">
-  import { Speaker } from "@/lib/speaker"
   import RichText from "./rich-text.svelte"
   import PlayButton from "../audio/play-button.svelte"
   import { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { GlobalSpeaker } from "@/lib/svelte-speaker"
 
   export let richtexts: RichTextItemResponse[]
+  export let speaker: GlobalSpeaker
 
   const phraseList = richtexts.map((item) => item.plain_text)
-  const speaker = new Speaker(phraseList.join(" "))
+  const play = () => speaker.speak(phraseList.join(" "))
 </script>
 
 <div class="cell">
-  <PlayButton play={speaker.speak} />
+  <PlayButton {play} />
   <div class="text">
     {#each richtexts as item}
       <RichText richtext={item} />

@@ -2,6 +2,7 @@
   import RichText from "./rich-text.svelte"
   import CellPhrase from "./cell-phrase.svelte"
   import { RichTextItemResponse } from "@notionhq/client/build/src/api-endpoints"
+  import { GlobalSpeaker } from "@/lib/svelte-speaker"
 
   type Content = {
     table_width: number
@@ -14,6 +15,7 @@
   }
 
   export let content: Content
+  export let speaker: GlobalSpeaker
 
   const rows = content.children.map((ch) => ch.table_row)
 </script>
@@ -22,7 +24,7 @@
   {#each rows as row}
     <div class="record">
       <dt class="key">
-        <CellPhrase richtexts={row.cells[0]} />
+        <CellPhrase {speaker} richtexts={row.cells[0]} />
       </dt>
       <dd class="value">
         {#each row.cells[1] as item}
