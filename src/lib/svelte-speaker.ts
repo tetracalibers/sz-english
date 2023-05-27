@@ -23,7 +23,9 @@ export class GlobalSpeaker {
       this.audio.rate = option.rate
 
       const loadFn = () => {
-        const voices = speechSynthesis.getVoices().filter((voice) => voice.lang === "en-US")
+        const voices = speechSynthesis.getVoices().filter((voice) => {
+          return voice.lang === "en-US" || voice.name === "Kyoko"
+        })
         const defaultVoice = voices.find((voice) => voice.name === "Google US English")
         this.audio.voice = defaultVoice
         this._$currVoice.set(defaultVoice)
