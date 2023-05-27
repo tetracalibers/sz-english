@@ -26,7 +26,7 @@ export class GlobalSpeaker {
         const voices = speechSynthesis.getVoices().filter((voice) => {
           return voice.lang === "en-US" || voice.name === "Kyoko"
         })
-        const defaultVoice = voices.find((voice) => voice.name === "Google US English")
+        const defaultVoice = voices.find((voice) => voice.name === "Samantha")
         this.audio.voice = defaultVoice
         this._$currVoice.set(defaultVoice)
         this._$voices.set(voices)
