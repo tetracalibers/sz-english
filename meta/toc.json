@@ -120,6 +120,16 @@
     "_order": 200001
   },
   {
+    "title": "「とても」so, very, such の違い",
+    "id": "5e3ed161-4b5b-4112-8776-f3067cb52d7b",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-03"
+    ],
+    "_order": 200002
+  },
+  {
     "title": "can と be able to の違い",
     "id": "ddd6ad5e-c8ee-4846-9554-763c7b90bf6b",
     "level": 2,
@@ -127,7 +137,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200002
+    "_order": 200003
   },
   {
     "title": "判断の根拠を述べるfrom",
@@ -137,7 +147,17 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200003
+    "_order": 200004
+  },
+  {
+    "title": "「私にとって」to me と for me の違い",
+    "id": "002930f8-f6e2-4aad-995e-4abfbec81f99",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-03"
+    ],
+    "_order": 200005
   },
   {
     "title": "結果を表す完了形",
@@ -147,7 +167,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200004
+    "_order": 200006
   },
   {
     "title": "継続を表す完了形",
@@ -157,7 +177,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200005
+    "_order": 200007
   },
   {
     "title": "可能性・推量の助動詞の確信度",
@@ -167,7 +187,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200006
+    "_order": 200008
   },
   {
     "title": "仮定法の would",
@@ -177,7 +197,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-03"
     ],
-    "_order": 200007
+    "_order": 200009
   },
   {
     "title": "譲歩を表す may",
@@ -310,6 +330,16 @@
     "_order": 500001
   },
   {
+    "title": "距離を表す副詞（近い順）",
+    "id": "9a6060aa-3436-4611-8716-31f2d803af2e",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-06"
+    ],
+    "_order": 500002
+  },
+  {
     "title": "「思う」guess, suppose, think, believe の確信度の違い",
     "id": "038aa0ff-f0d7-40fa-8876-3a31639b17ae",
     "level": 2,
@@ -317,7 +347,7 @@
       "29-TwitteringBirdsNeverFly",
       "scene-06"
     ],
-    "_order": 500002
+    "_order": 500003
   },
   {
     "title": "過去の習慣を表す would",
@@ -327,6 +357,26 @@
       "29-TwitteringBirdsNeverFly",
       "scene-06"
     ],
-    "_order": 500003
+    "_order": 500004
+  },
+  {
+    "title": "頻度を表す副詞（高頻度順）",
+    "id": "d65f03af-2989-473c-81d3-26614f9094b6",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-06"
+    ],
+    "_order": 500005
+  },
+  {
+    "title": "程度を表す副詞（強い順）",
+    "id": "13bc7344-deb0-4817-9588-14fa689aff5e",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-06"
+    ],
+    "_order": 500006
   }
 ]
