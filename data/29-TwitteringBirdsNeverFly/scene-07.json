@@ -1,7 +1,7 @@
 {
   "title": "偵察",
   "id": "4c87887e-58ec-4568-8ef4-495e31f9d798",
-  "last_edited_time": "2023-05-26T09:41:00.000Z",
+  "last_edited_time": "2023-06-05T15:54:00.000Z",
   "path": [
     "29 - Twittering Birds Never Fly"
   ],
@@ -39,6 +39,60 @@
       }
     },
     {
+      "type": "toggle",
+      "id": "6546d74a-8a76-4e7d-9a19-3a56e5020d50",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "335a119c-16ee-4fb4-a21c-b456986043e4",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "お片付けはー？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "お片付けはー？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "callout",
       "id": "d2da2c97-9b14-4b00-a952-0e2243612ace",
       "callout": {
@@ -68,6 +122,60 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "5bea86b8-24f4-4d43-ae54-0bc5e9ad8971",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "daebdf0c-07c4-44be-a914-911e9c36ba0a",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "片付けたもーん",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "片付けたもーん",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
       }
     },
     {
@@ -131,14 +239,14 @@
       }
     },
     {
-      "type": "callout",
-      "id": "3b996081-fe1e-43e4-8573-ad45c4f2521f",
-      "callout": {
+      "type": "toggle",
+      "id": "b3fc4e17-7a16-4935-b3d7-61c6da6e849e",
+      "toggle": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "You’re such a nug !",
+              "content": "ja",
               "link": null
             },
             "annotations": {
@@ -149,7 +257,251 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "You’re such a nug !",
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4e574f73-274a-4dc5-bd2b-c8b270aad97f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "まだ残ってるよ そこのボール",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "まだ残ってるよ そこのボール",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "ff9f8081-11c7-49ea-a535-4fc6097064e7",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "adbd5ae6-4e4e-42b3-be46-fe9eb3007001",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "leftover",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "leftover",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "残り",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "残り",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "c7cff2d0-b4b1-4395-93ba-40e98101ed29",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "for instance",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "for instance",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "例えば",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "例えば",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "5310c088-eec5-4f20-b51b-c1df0bc20581",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[WIP] over の使い道",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[WIP] over の使い道",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "9355dbd3-4d91-419e-b54a-c799438aa7dc",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "3b996081-fe1e-43e4-8573-ad45c4f2521f",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re such a ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re such a ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "nug",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "nug",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " !",
             "href": null
           }
         ],
@@ -160,6 +512,117 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "b1f19db6-8f0c-442a-9cf1-d5981f011206",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "cf52b9c6-91b8-4277-a6e8-9d59c78cb2e7",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "口うるさいなー",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "口うるさいなー",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "ff9c5109-80b4-4a75-8e81-6f4bf2e83985",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "41945941-0e2b-4052-977c-298ed6fd2d0b",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "such",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "such",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "とても〜な",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "とても〜な",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -195,6 +658,117 @@
       }
     },
     {
+      "type": "toggle",
+      "id": "7371852d-fbe5-4de2-a68a-4b6576c8dcc8",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "b2d483e5-46a9-4b04-af03-c89548c63aac",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "カレシできないよー",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "カレシできないよー",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "c58a41b9-c1a4-41f7-87c2-64285eebf7bc",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "6ef2f44e-f7cd-4b17-a4b2-9c0b4a644ff7",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "gonna",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "gonna",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "= going to",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "= going to",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "callout",
       "id": "e1cc0817-3e13-46bd-b31a-8738a61424b4",
       "callout": {
@@ -224,6 +798,117 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "4ad0c8d0-3d0e-4c1a-be98-3d1c35d1e61b",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "17131fa9-d732-4ea9-821a-1a8784d27143",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "ママみたいになるぞー",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "ママみたいになるぞー",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "57302095-35ba-4e5c-bb55-bc559fe55e87",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "19c15355-feca-4a42-9825-d8eabb8dd069",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "end up",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "end up",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "最後には～になる",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "最後には～になる",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     },
     {
@@ -259,6 +944,60 @@
       }
     },
     {
+      "type": "toggle",
+      "id": "18682762-6c7c-490a-920f-10e5535d74f1",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4e7846fd-f822-49e3-af45-6d04823c3d1b",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "なんだとー？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "なんだとー？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "callout",
       "id": "986213b9-14fa-4263-b17e-858ae07e66c6",
       "callout": {
@@ -288,6 +1027,60 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "529b9d72-49b6-4fbe-893e-01fe2cb8b9ac",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "e82da526-0bfe-459f-a751-0f9162192606",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "あのガキは何してる？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "あのガキは何してる？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
       }
     },
     {
@@ -351,6 +1144,117 @@
       }
     },
     {
+      "type": "toggle",
+      "id": "f3047f42-c063-46e4-9a62-8162df0d6e5a",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "699ca0de-27fa-4ee8-9f8b-0d73b6d91e29",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "矢代なら三角のオヤジの用事で出てます",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "矢代なら三角のオヤジの用事で出てます",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "bbf700d8-36dd-4c6a-a292-d0d06e5a2c9d",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "3314b380-5996-4d4f-b315-e7d502fa390c",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "be out on business",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "be out on business",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "仕事で外出中である",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "仕事で外出中である",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
       "type": "callout",
       "id": "1839941b-096e-4346-a681-1cec2002e9de",
       "callout": {
@@ -380,6 +1284,113 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "ecd71239-d26d-44b1-8ff9-06d5152664da",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a8b9a6e6-1d8e-4c91-ab8e-1a975f8f6d24",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "オヤジがあいつに何やらせてる？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "オヤジがあいつに何やらせてる？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "9918ebec-1f7f-43fd-af0e-225ea4c08d0f",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[WIP] 使役動詞のhave",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[WIP] 使役動詞のhave",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "f9839488-6fca-474b-8770-e46349b605d9",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
       }
     },
     {
@@ -415,6 +1426,152 @@
       }
     },
     {
+      "type": "toggle",
+      "id": "8fdad694-a652-410f-aeee-bca9ddf331c6",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "bf9ae275-4667-44e3-8b0f-7356932e86f8",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "なんか女を見張らせてるとか聞きましたが",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "なんか女を見張らせてるとか聞きましたが",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "e0348166-45fa-493f-ad5b-096623f09165",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "308e0ffc-941f-41b3-bcf3-f6293c302cc8",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "be supposed to",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "be supposed to",
+                    "href": null
+                  }
+                ],
+                []
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "ac0be069-641c-4339-931e-e20be3c70353",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "[WIP]「聞く」を表す動詞",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "[WIP]「聞く」を表す動詞",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "270e5a72-1a38-49e7-a0dd-7c9d3fede66c",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WIP",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WIP",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
       "type": "callout",
       "id": "f5ec2e7a-f25d-4ee8-9d77-602a783e1350",
       "callout": {
@@ -444,6 +1601,163 @@
           }
         },
         "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "8eea5608-c59b-4522-bb2a-082f4a0bfcee",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4ce52a78-c5b6-4b5e-8a99-1405cbdbe4f0",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "雑用っすよ どうせ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "雑用っすよ どうせ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "558e161a-0499-4700-b469-c6ccf4a27cef",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "1207db2c-223f-4fae-bbc3-48fb6dd5467c",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "probably",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "probably",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "高い確実性で、十中八九は、多分、恐らく",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "高い確実性で、十中八九は、多分、恐らく",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "7062a7e1-2443-406d-b82f-dcaace415f85",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "odd job",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "odd job",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "雑用",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "雑用",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
       }
     }
   ]
