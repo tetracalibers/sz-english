@@ -468,5 +468,15 @@
       "scene-07"
     ],
     "_order": 600003
+  },
+  {
+    "title": "義務を表す助動詞・句動詞（強制度が高い順）",
+    "id": "1303aa96-3f99-4a98-a471-7d4508b2f1f1",
+    "level": 2,
+    "slugs": [
+      "29-TwitteringBirdsNeverFly",
+      "scene-08"
+    ],
+    "_order": 700000
   }
 ]

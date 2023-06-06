@@ -1,20 +1,20 @@
 {
   "title": "消息",
   "id": "557cfd4a-6a7e-4782-a326-8494e40d9680",
-  "last_edited_time": "2023-05-26T09:52:00.000Z",
+  "last_edited_time": "2023-06-06T12:13:00.000Z",
   "path": [
     "29 - Twittering Birds Never Fly"
   ],
   "blocks": [
     {
-      "type": "paragraph",
-      "id": "7dc84ad3-45a8-4e06-9bd6-c8c5d0fd40d0",
-      "paragraph": {
+      "type": "callout",
+      "id": "3cc9c876-1bde-4fb8-a2c7-a937f7c89c7a",
+      "callout": {
         "rich_text": [
           {
             "type": "text",
             "text": {
-              "content": "WIP",
+              "content": "She doesn’t have any debts.",
               "link": null
             },
             "annotations": {
@@ -25,11 +25,3509 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "WIP",
+            "plain_text": "She doesn’t have any debts.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "d95f0222-5690-4908-99dc-6664f242540f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "She has a boyfriend, but she lives alone.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "She has a boyfriend, but she lives alone.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "37fbe527-b316-43f1-803b-03b326714f03",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "35d92b8c-b80e-462e-a449-bcf783c81d84",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "借金なし 彼氏持ち 一人暮らし",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "借金なし 彼氏持ち 一人暮らし",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "eb17f4df-70ce-4257-a1d0-35a18c325da9",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "a9a45349-846f-462c-800e-422e39e6b0a1",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "debt",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "debt",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "借金",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "借金",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "b5147fca-b6b9-422d-86b5-968a0ffec5ff",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "She’s training to become a childcare worker, and is currently attending junior college.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "She’s training to become a childcare worker, and is currently attending junior college.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "355b415f-45b4-4139-9e41-c468ff4d20e0",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "9d57d968-d77e-424a-896d-5ce175cadba8",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "短大行きながら保育士見習いしてるようです",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "短大行きながら保育士見習いしてるようです",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "721d18ab-b0be-459e-a92a-5fa8280458b8",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "3edaa5a0-106d-4a53-bce4-52d7e052a093",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "childcare",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "childcare",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "保育",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "保育",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "09e793c7-b689-4f0c-ba62-5080a3f3ede7",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "currently",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "currently",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "現在は",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "現在は",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "1a22d352-dc93-45ee-a438-8613709dfe52",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "attend",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "attend",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔学校などに〕行く、通う",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔学校などに〕行く、通う",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "f9f4a8f9-6744-4ab8-831e-7005739a76d6",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "junior college",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "junior college",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈米・カナダ〉短期大学",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈米・カナダ〉短期大学",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "ab7a1040-da4a-44c8-9a76-d21af60d4e41",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Who is she ? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Who is she ? ",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "8ba7787f-f590-443c-9691-e7cf1f712e3e",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Your illegitimate daughter ?",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Your illegitimate daughter ?",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "89f01e2e-0f1e-461d-8814-7d1f03720c3b",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "a7c05dfb-b358-4d0f-a071-c337c00c09be",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "隠し子か何かですか？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "隠し子か何かですか？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "946b9446-b8c4-49a0-80e2-9f0f99638649",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "c9da2186-ac6d-4a44-903a-d8db6b424316",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "illegitimate",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "illegitimate",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "非嫡出の",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "非嫡出の",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "2a00f05d-b52a-4086-877a-a4d84be10b9e",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Don’t be stupid.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Don’t be stupid.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "aa8c8840-7931-448d-af49-8750c01ae1c3",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Obviously, she’s my mistress.",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Obviously, she’s my mistress.",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "6fcd905e-0d08-4ea9-8218-705c4ddcbc9d",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3723056c-cc55-44f6-9dee-18483f42fdbe",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "バーカ 愛人に決まってんだろ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "バーカ 愛人に決まってんだろ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "d3a03e4e-4b49-423e-974f-42c9c0c63209",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "5b202a33-cb14-4c6c-9de1-1355dd812132",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "stupid",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "stupid",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈話〉ばか者、愚か者、あほ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈話〉ばか者、愚か者、あほ",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "4a5a0b73-b575-4bc7-8976-f8e9fd06b78f",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "obviously",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "obviously",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "明らかに、どこからどう見ても～だ、誰が見たって～だ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "明らかに、どこからどう見ても～だ、誰が見たって～だ",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "7e75a016-6aa9-4626-8c1f-2c0a6eace837",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "mistress",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "mistress",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈俗〉〔既婚男性が付き合う〕不倫相手、愛人",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈俗〉〔既婚男性が付き合う〕不倫相手、愛人",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "cb8a12ad-3691-477c-9b80-b33aed77478b",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We’re the same age.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We’re the same age.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "3d588dd3-3155-4335-945f-47a00b875ecd",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "2c5308ef-08fb-43ad-9b59-1bb60bca33c7",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "俺と同い年ですよ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "俺と同い年ですよ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "bfb0ba09-17f9-4015-9058-c9d3bc9b9aec",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Isn’t she great ? ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Isn’t she great ? ",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ed94fab0-1ec7-49f3-93f7-3bc46389c4d9",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "She’s so ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "She’s so ",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "spunky and energetic",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "spunky and energetic",
+                  "href": null
+                },
+                {
+                  "type": "text",
+                  "text": {
+                    "content": ".",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": ".",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "d2029cc4-421c-4a6d-93d1-ee078cdd46e5",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "5339de2e-5062-4bb5-b8f6-0941db6de20f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "いいだろ ピチピチで",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "いいだろ ピチピチで",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "1cdbc39f-4e15-4b57-bf34-d6e84dbad30d",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "f17ae3cc-ea16-4275-8dad-17b3d8d21aeb",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "spunky",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "spunky",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈話〉快活な、〔人・演技・演奏などが〕エネルギッシュな",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈話〉快活な、〔人・演技・演奏などが〕エネルギッシュな",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "406c6dac-abb7-4f5d-8295-4765d27ae9f0",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "energetic",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "energetic",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔人や行為が〕活動的な、精力的な、エネルギッシュな",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔人や行為が〕活動的な、精力的な、エネルギッシュな",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "4b9f69cd-512a-4946-86ef-c830585af491",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "One of these days, you should go and see how she’s doing.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "One of these days, you should go and see how she’s doing.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "c145067e-4e53-420a-9b14-5a5e62beacd8",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "4e304218-e6c5-47dc-b222-c43f60c1afec",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "そのうちまた様子を見に行ってこい",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "そのうちまた様子を見に行ってこい",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "db065cb1-23bd-4498-ad19-8151007224b6",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "3a73289b-8548-4704-b056-ba337605998e",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "one of these days",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "one of these days",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "近日中に、近いうちに",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "近日中に、近いうちに",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_2",
+      "id": "1303aa96-3f99-4a98-a471-7d4508b2f1f1",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "義務を表す助動詞・句動詞（強制度が高い順）",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "義務を表す助動詞・句動詞（強制度が高い順）",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "c8b3ea93-88da-4133-88d1-eadc8db166c4",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "must … 強制「〜しなさい」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "must … 強制「〜しなさい」",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "6e14e102-9a75-45a5-ade2-a3af4e6327c6",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "must",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "must",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " go this event.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " go this event.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "8d44b7dc-9a5f-4143-b0ee-217883c1022f",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "このイベントに行きなさい。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "このイベントに行きなさい。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "4284bd93-b767-48d6-904b-12138fc6f6e6",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "had better … 忠告「〜したほうがいい」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "had better … 忠告「〜したほうがいい」",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "b116f909-36a3-45dc-aa43-b70758622b61",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "had better",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "had better",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " go this event.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " go this event.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "185dddba-98f7-4188-bdbd-172dc2eff65d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "このイベントに行った方がいい。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "このイベントに行った方がいい。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "3f395d1d-3e6f-4ba3-84f1-da7752389d28",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "have to … 誘導「〜するとよい」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "have to … 誘導「〜するとよい」",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "651aaf3e-d0f2-407b-bfc8-0f9654834bd6",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "have to ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "have to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "go this event.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "go this event.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "8f59f38f-743f-46df-8ec2-65ccb218f0e9",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "このイベントに行くとよい。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "このイベントに行くとよい。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading_3",
+      "id": "bc96b396-73db-4331-a3c3-0d7792661151",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "should … 助言「〜してはどうか」",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "should … 助言「〜してはどうか」",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "906ab86d-609c-4ddc-8a0a-4d8db066f0b5",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "should",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "should",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " go this event.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " go this event.",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "412abc9b-d6c3-4a75-84ea-4bb29f345174",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "このイベントに行ってはどうですか。",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "このイベントに行ってはどうですか。",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "ad502430-d41e-4863-935f-610837ce242d",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I mean, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I mean, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "sure",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "sure",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", but why me ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", but why me ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "c5555630-8915-449c-8116-c86c72688c2f",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ce04b4fd-cb7d-4060-8030-989c71ae801c",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "別にいいですけどー なんでオレー？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "別にいいですけどー なんでオレー？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "e110d36a-96d1-4411-9cd9-032d8f7cce45",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "548f2bd0-ef05-43a0-b42f-e757e20c5e26",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "I mean",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "I mean",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "というか、ていうか",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "というか、ていうか",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "22c494ca-c8f6-4ac6-beed-06177b2bdf06",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You don’t look like a yakuza.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You don’t look like a yakuza.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "a7f481b3-4138-44cc-a46c-c67ff63137e8",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "ddeb8915-4c0e-4efe-b156-fce2f13cf86e",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "お前ならヤクザには見えんだろ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "お前ならヤクザには見えんだろ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "5ec8e620-68a8-40ca-9231-d76a63cb0966",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Well",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Well",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " that’s because I’m not a yakuza.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " that’s because I’m not a yakuza.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "13880b12-cf2a-4436-a4ba-d16d0214b2a8",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "01f3c065-13ff-48e2-83f6-643b5d706b7a",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "そりゃヤクザじゃないですからねー",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "そりゃヤクザじゃないですからねー",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "d1330175-f404-4914-9747-69b9f9260c3c",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There’s still some hope, for you.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There’s still some hope, for you.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "628060f5-f9ef-4b1c-be3f-adeb89b95c1a",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "2bbce4f0-4925-413c-b689-d8cc55a4f3a1",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "首の皮一枚だろうが",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "首の皮一枚だろうが",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "40229bcb-2b60-4083-bbeb-cbf3b302d323",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「首の皮一枚」とは、皮1枚で首がつながっていること。 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「首の皮一枚」とは、皮1枚で首がつながっていること。 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "まだわずかな望みが残っている",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "まだわずかな望みが残っている",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ことのたとえ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ことのたとえ。",
             "href": null
           }
         ],
         "color": "default"
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "4f9e2270-081b-4605-8e13-9de33d1139ae",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "英語では喩えではなく、そのままの意味で表現されている。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "英語では喩えではなく、そのままの意味で表現されている。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "c6c36bac-72a5-46cd-bcc2-fcecd0d87776",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Here’s some spending money.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Here’s some spending money.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "7c188e6a-55b3-43d1-a9c6-88f99fab51cb",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "bafa39fd-6a71-41f1-91a5-8099a6abab07",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "小遣いだ 取っとけ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "小遣いだ 取っとけ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "70f80255-6e83-440c-bc10-30f574ca1f7e",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "f55b64c3-2222-4317-8aed-8f0bf741c066",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Here is",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Here is",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "ここに～がある。／これは～です。／ここにあるのは～です。",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "ここに～がある。／これは～です。／ここにあるのは～です。",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          },
+          {
+            "type": "table_row",
+            "id": "5b9aa4e2-f213-4562-84c3-6b879f59b95d",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "spending money",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "spending money",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〔個人的な楽しみのために使える〕小遣い銭",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〔個人的な楽しみのために使える〕小遣い銭",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "9c953234-db3e-42ca-accd-ee6c18045f50",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Oh, score.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Oh, score.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "395dd9a2-8388-4340-9096-084473f73269",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "fee52651-6fba-4980-9419-d1b54bff3e6c",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "わー ヤッター",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "わー ヤッター",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "id": "b4a03945-b980-42c0-ad80-586df706377e",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false,
+        "children": [
+          {
+            "type": "table_row",
+            "id": "d0614291-e3d8-4a80-8f05-2436e2910866",
+            "table_row": {
+              "cells": [
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "score",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "score",
+                    "href": null
+                  }
+                ],
+                [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "〈話〉大成功、素晴らしい成果",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "〈話〉大成功、素晴らしい成果",
+                    "href": null
+                  }
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "1b4b049f-445b-40bd-a8ad-87da00cf33c4",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "score は、「しめた」「やった」という意味で間投詞的にも使う。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "score は、「しめた」「やった」という意味で間投詞的にも使う。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "type": "callout",
+      "id": "22ab01a4-6c31-4751-8a34-6916c7a01557",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You can pay it back later by letting me take you from behind.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You can pay it back later by letting me take you from behind.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "5bdd1ec8-05fe-462c-b46a-db1e78e5acd9",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "1652ba8b-3e55-42ac-aca4-7940b1527f65",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "でそのまま借金返済で俺にバック",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "でそのまま借金返済で俺にバック",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "f3268a3d-a821-44f9-b692-a8b40762beda",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re joking, right ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re joking, right ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "923d5803-ea45-48c0-9356-7f049aa0a6c9",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "7646c9e0-7560-44dc-bd92-5168513acee5",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "…遊ばないでもらえます？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "…遊ばないでもらえます？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "1685fe5c-1508-47c2-b5e5-04ed1e75602a",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re so much fun to tease.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re so much fun to tease.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "c8cea383-6b69-4953-92a6-3f210c0e021c",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "f22a7e30-cf03-4809-8a7f-1413f2995773",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "楽しい奴だな",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "楽しい奴だな",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "741a3aea-d4cc-4cac-9ae8-4045dc6fe757",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You’re in a good mood.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You’re in a good mood.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "eb751e6e-209d-4b95-bd85-346f62e46adc",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "e5e1c5dc-9197-4951-b2e6-ba0c2d08c119",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "キゲンいいですねー",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "キゲンいいですねー",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "eb1a48d9-935b-4f2a-b3ba-016ea6b8fa6f",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Am I ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Am I ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "e1fbd36c-46fd-4896-9dea-bcc2ed9f051a",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "3ccbea59-6dab-4db5-aac6-f0ed8a809884",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "そうか？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "そうか？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "58551020-d85a-4ee2-b5d7-6784830f83e1",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Did something happen ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Did something happen ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "ee89cd39-abe9-4563-b099-c5d7edf4207d",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "cccf71b5-e0ff-46e6-b115-6e4115ce1343",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "なんかいいことでも？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "なんかいいことでも？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          },
+          null
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "6f65e1b8-0d93-44ab-9d51-7f1b24d37f6e",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I’m about to see a woman I’ve been searching for after many years.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I’m about to see a woman I’ve been searching for after many years.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "25dbdece-d42d-4bdb-a9b7-960175fb4cdc",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "100cd51a-79bf-468c-aed2-c828a1799ae1",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "長年探してた女に会えるんでな",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "長年探してた女に会えるんでな",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "982ad932-d16d-4866-bc7e-47761c3d7e46",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The one in the photo ?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The one in the photo ?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "9891b18d-cc20-4798-a8da-1ab45bda22bb",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "c96a6e49-db75-4b0b-88d6-151a20f02f9d",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "この娘じゃなく？",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "この娘じゃなく？",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "id": "d80f7a50-7447-401f-a403-c8e6f8aafe66",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "No, her mother.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "No, her mother.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/partly-cloudy-night_lightgray.svg"
+          }
+        },
+        "color": "gray_background"
+      }
+    },
+    {
+      "type": "toggle",
+      "id": "695462ed-9e71-43f4-bd2e-73ebaa974aef",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ja",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ja",
+            "href": null
+          }
+        ],
+        "color": "default",
+        "children": [
+          {
+            "type": "paragraph",
+            "id": "304e44a0-4fc1-4c22-9282-d6a41c6538bf",
+            "paragraph": {
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "母親の方だ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "母親の方だ",
+                  "href": null
+                }
+              ],
+              "color": "default"
+            }
+          }
+        ]
       }
     }
   ]
